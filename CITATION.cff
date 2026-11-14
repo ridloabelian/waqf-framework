@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Open-NSIM: 2D Prophetic Management Cycle (Niyyah – Syura – Itqan – Muhasabah × SAFT)"
+message: "If you adopt, teach, or build upon the NSIM Prophetic Management Cycle in research, training, or organizational SOPs, please cite this specification."
+type: software
+authors:
+  - family-names: Abelian
+    given-names: Ridlo
+    website: "https://ridlo.id"
+abstract: >-
+  Open-NSIM is an open, value-laden 2D Prophetic Management standard uniting
+  the 4-stage NSIM operational cycle (Niyyah & Ru'yah, Syura & Tadbir, Itqan &
+  I'anah, Muhasabah & Hisbah) with the 4 Prophetic character traits (SAFT:
+  Shiddiq, Amanah, Fathanah, Tabligh), operationalized through 13 Hadith and
+  Sirah protocols, a 1-Page Execution Canvas, GitHub governance templates, JSON
+  Schema, and an AI Agent Skill.
+keywords:
+  - nsim
+  - prophetic-management
+  - islamic-management
+  - syura
+  - itqan
+  - muhasabah
+  - hisbah
+  - saft
+  - second-brain
+  - agent-skills
+version: "1.0.0"
+date-released: "2026-11-14"
+license: "CC-BY-SA-4.0 AND MIT"
+repository-code: "https://github.com/ridloabelian/open-nsim"
+url: "https://ridlo.id/posts/nsim-prophetic-management-cycle-beyond-gper"

@@ -1,0 +1,293 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/ridloabelian/open-nsim/blob/main/schema/nsim-canvas.schema.json",
+  "title": "Open-NSIM Prophetic Management Canvas",
+  "description": "Machine-readable schema representing a complete 1-Page NSIM Execution Canvas (Niyyah & Ru'yah, Syura & Tadbir, Itqan & I'anah, Muhasabah & Hisbah) governed by Prophetic SAFT traits and the 13 Hadith operational protocols.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "metadata",
+    "niyyah_ruyah",
+    "syura_tadbir",
+    "itqan_ianah",
+    "muhasabah_hisbah"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "open-nsim/1.0.0"
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "project_code",
+        "title",
+        "entity",
+        "primary_dri",
+        "cycle_start",
+        "cycle_end",
+        "status"
+      ],
+      "properties": {
+        "project_code": {
+          "type": "string",
+          "pattern": "^[A-Z0-9_-]{3,40}$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 5
+        },
+        "entity": {
+          "type": "string",
+          "minLength": 2
+        },
+        "primary_dri": {
+          "type": "string",
+          "minLength": 2,
+          "description": "Single Directly Responsible Individual verified under Al-Qawiyy Al-Amin."
+        },
+        "saft_pillars": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["Shiddiq", "Amanah", "Fathanah", "Tabligh"]
+          },
+          "uniqueItems": true
+        },
+        "cycle_start": {
+          "type": "string",
+          "format": "date"
+        },
+        "cycle_end": {
+          "type": "string",
+          "format": "date"
+        },
+        "hisbah_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "draft",
+            "azam-ratified",
+            "in-execution",
+            "mid-cycle-hisbah",
+            "closed-islah"
+          ]
+        }
+      }
+    },
+    "niyyah_ruyah": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Stage 1: Goal phase anchored by Shiddiq & Fathanah.",
+      "required": [
+        "al_niyyah_vertical",
+        "maslahah_horizontal",
+        "al_bisyarah_vision",
+        "al_miqdar_targets"
+      ],
+      "properties": {
+        "al_niyyah_vertical": {
+          "type": "string",
+          "minLength": 10,
+          "description": "Protocol P01 (Innamal A'malu bin-Niyyat): Vertical intention before Allah."
+        },
+        "maslahah_horizontal": {
+          "type": "string",
+          "minLength": 10,
+          "description": "Verifiable real-world benefit for customers, beneficiaries, or society without harm."
+        },
+        "al_bisyarah_vision": {
+          "type": "string",
+          "minLength": 10,
+          "description": "Protocol P02 (Al-Bisyarah): Medium/long-term guiding vision."
+        },
+        "al_miqdar_targets": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 3,
+          "description": "Protocol P03 (Al-Miqdar): 1 to 3 bounded quantitative targets.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["metric", "target_value", "deadline"],
+            "properties": {
+              "metric": { "type": "string", "minLength": 3 },
+              "target_value": { "type": "string", "minLength": 1 },
+              "deadline": { "type": "string", "format": "date" },
+              "risk_or_budget_ceiling": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "syura_tadbir": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Stage 2: Plan & Delegation phase anchored by Fathanah & Amanah.",
+      "required": [
+        "tauqifi_guardrails",
+        "ijtihadi_tactics",
+        "tafwidh_delegation",
+        "azam_ratified"
+      ],
+      "properties": {
+        "tauqifi_guardrails": {
+          "type": "array",
+          "minItems": 1,
+          "description": "Protocol P04 (Hubab bin Mundzir): Non-negotiable Sharia, contractual, legal, and security rules.",
+          "items": { "type": "string", "minLength": 5 }
+        },
+        "ijtihadi_tactics": {
+          "type": "array",
+          "minItems": 1,
+          "description": "Protocol P04 (Hubab bin Mundzir): Adaptable tactical paths open to team critique.",
+          "items": { "type": "string", "minLength": 5 }
+        },
+        "tafwidh_delegation": {
+          "type": "array",
+          "minItems": 1,
+          "description": "Protocol P06 (Abu Dzar Al-Ghifari): Role assignments verified for Al-Quwwah & Al-Amanah.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "member_name",
+              "role",
+              "al_quwwah_verified",
+              "al_amanah_verified"
+            ],
+            "properties": {
+              "member_name": { "type": "string", "minLength": 2 },
+              "role": { "type": "string", "minLength": 2 },
+              "al_quwwah_verified": { "type": "boolean" },
+              "al_amanah_verified": { "type": "boolean" }
+            }
+          }
+        },
+        "azam_ratified": {
+          "type": "boolean",
+          "description": "Protocol P05 (Badr): Whether core executors co-ratified the plan in Syura."
+        },
+        "azam_ratified_date": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "itqan_ianah": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Stage 3: Execution & Coaching phase anchored by Tabligh & Uswah.",
+      "required": [
+        "definition_of_done",
+        "uswah_touchpoints",
+        "fa_ainuhum_support"
+      ],
+      "properties": {
+        "definition_of_done": {
+          "type": "array",
+          "minItems": 1,
+          "description": "Protocol P07 (Al-Itqan): Explicit precision standards before work is marked done.",
+          "items": { "type": "string", "minLength": 5 }
+        },
+        "uswah_touchpoints": {
+          "type": "array",
+          "minItems": 1,
+          "description": "Protocol P08 (Al-Uswah Al-Hasanah): Critical stages where leader works directly on the front line.",
+          "items": { "type": "string", "minLength": 5 }
+        },
+        "fa_ainuhum_support": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "provisioned_resources",
+            "manager_unblocking_plan",
+            "zero_humiliation_pledge",
+            "timely_compensation_commitment"
+          ],
+          "properties": {
+            "provisioned_resources": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "manager_unblocking_plan": {
+              "type": "string",
+              "minLength": 5,
+              "description": "Protocol P09 (Fa-a'inuhum): How the manager removes bottlenecks for heavy targets."
+            },
+            "zero_humiliation_pledge": {
+              "type": "boolean",
+              "const": true
+            },
+            "timely_compensation_commitment": {
+              "type": "string",
+              "minLength": 4,
+              "description": "Anti-mumathalah date or SLA for salaries/vendor/partner payments."
+            }
+          }
+        }
+      }
+    },
+    "muhasabah_hisbah": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Stage 4: Review & Reform phase anchored by Shiddiq & Amanah.",
+      "required": [
+        "mid_cycle_hisbah_findings",
+        "at_tahqiq_artifacts",
+        "ibnul_lutbiyyah_audit",
+        "islah_actions"
+      ],
+      "properties": {
+        "mid_cycle_hisbah_findings": {
+          "type": "string",
+          "description": "Protocol P10 (Hisbah / Taftish al-Suq): Findings from mid-cycle process & ethics inspection."
+        },
+        "at_tahqiq_artifacts": {
+          "type": "array",
+          "description": "Protocol P11 (At-Tahqiq): Verifiable physical or digital evidence (logs, ledgers, PRs, photos).",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["kpi_name", "artifact_uri_or_ref", "verified"],
+            "properties": {
+              "kpi_name": { "type": "string", "minLength": 2 },
+              "artifact_uri_or_ref": { "type": "string", "minLength": 3 },
+              "verified": { "type": "boolean" }
+            }
+          }
+        },
+        "ibnul_lutbiyyah_audit": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Protocol P12 (Ibnul Lutbiyyah): Dual outcome and anti-gratification integrity audit.",
+          "required": [
+            "outcome_summary",
+            "integrity_status",
+            "asset_segregation_verified",
+            "zero_unauthorized_gifts_declared"
+          ],
+          "properties": {
+            "outcome_summary": { "type": "string" },
+            "integrity_status": {
+              "type": "string",
+              "enum": ["pending", "clean", "finding"]
+            },
+            "asset_segregation_verified": { "type": "boolean" },
+            "zero_unauthorized_gifts_declared": { "type": "boolean" }
+          }
+        },
+        "islah_actions": {
+          "type": "array",
+          "description": "Protocol P13 (Ta'ridh & Bani Makhzum): Systemic SOP improvements without shaming, plus impartial enforcement.",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

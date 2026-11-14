@@ -1,0 +1,78 @@
+name: "NSIM Initiative (Niyyah · Syura · Itqan)"
+description: "Mulai inisiatif, fitur besar, atau program kuartalan baru menggunakan pagar 13 Protokol NSIM."
+title: "[NSIM] <Nama Inisiatif>"
+labels: ["nsim-initiative", "stage:syura"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gunakan form ini untuk mengunci **Disiplin 1 (Niyyah & Ru'yah)**, **Disiplin 2 (Syura & Tadbir)**, dan kesiapan **Disiplin 3 (Itqan & I'anah)** sebelum eksekusi dimulai.
+
+  - type: input
+    id: project_code
+    attributes:
+      label: "Kode Proyek & Primary DRI (Al-Qawiyy Al-Amin)"
+      placeholder: "Contoh: PRJ-2026-Q4-01 · DRI: @username"
+    validations:
+      required: true
+
+  - type: textarea
+    id: niyyah_maslahah
+    attributes:
+      label: "1. Al-Niyyah & Maslahah (Protokol Innamal A'malu bin-Niyyat)"
+      description: "Mengapa inisiatif ini layak secara amanah di hadapan Allah ﷻ, dan apa manfaat konkret bagi umat/pelanggan?"
+      placeholder: |
+        - Niat vertikal: ...
+        - Maslahah nyata bagi pengguna/umat: ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: bisyarah_miqdar
+    attributes:
+      label: "2. Al-Bisyarah & 1–3 Target Al-Miqdar"
+      description: "Visi menang + target kuantitatif, tanggal selesai pasti, dan batas modal/risiko maksimal."
+      placeholder: |
+        - Al-Bisyarah (Guiding Vision): ...
+        1. Target Utama + Deadline: ...
+        2. Target Kualitas + Deadline: ...
+        3. Pagu Risiko / Anggaran Maksimal: ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: tauqifi_ijtihadi
+    attributes:
+      label: "3. Pagar Tauqifi vs. Ruang Ijtihadi (Protokol Hubab bin Mundzir)"
+      description: "Pisahkan prinsip harga mati (syariat, akad, keamanan data, hukum) dari taktik adaptif yang terbuka untuk kritik tim."
+      placeholder: |
+        **Domain Tauqifi (Tidak Boleh Ditawar):**
+        - ...
+        **Domain Ijtihadi (Terbuka Kritik & Koreksi Tim):**
+        - ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: itqan_ianah
+    attributes:
+      label: "4. Definition of Done (Itqan) & Dukungan Manajer (Fa-a'inuhum)"
+      description: "Standar tuntas presisi + sumber daya/unblocking yang disiapkan manajer + tanggal komitmen hak mitra."
+      placeholder: |
+        - Definition of Done (Itqan): ...
+        - Titik hadir langsung leader (Al-Uswah): ...
+        - Dukungan & unblocking manajer (Fa-a'inuhum): ...
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: preflight_checks
+    attributes:
+      label: "Checklist Pre-Flight NSIM (Protokol P01–P09)"
+      options:
+        - label: "Seluruh PIC lulus uji Al-Quwwah (kompeten) & Al-Amanah (Protokol Abu Dzar)."
+          required: true
+        - label: "Rencana sudah dibahas di Syura dan disepakati tim pelaksana sebagai 'Azam bersama (Protokol Badar)."
+          required: true
+        - label: "Jadwal inspeksi tengah jalan (Mid-Cycle Hisbah) sudah ditetapkan."
+          required: true
