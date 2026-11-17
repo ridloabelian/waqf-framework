@@ -1,16 +1,17 @@
-# WAQF Framework Whitepaper: The 2D Prophetic Management Cycle (*Wijhah – 'Azam – Qiyam – Fahs* · Powered by *NSIM* × *SAFT*)
+# WAQF Framework Whitepaper: The 2D Prophetic Management Cycle (*Wijhah – 'Azam – Qiyam – Fahs* × *SAFT*)
 
 - **Document Code:** `WAQF-SPEC-001`
-- **Version:** `1.1.0` (`2026-11-17`)
+- **Version:** `1.2.0` (`2026-11-17`)
 - **Author:** Ridlo Abelian ([ridlo.id](https://ridlo.id))
 - **Repository:** https://github.com/ridloabelian/waqf-framework
-- **Canonical Knowledge Base:** [Essay](https://ridlo.id/posts/nsim-prophetic-management-cycle-beyond-gper) · [Atomic Note ZK-035](https://ridlo.id/notes/nsim-prophetic-management-cycle-niyyah-syura-itqan-muhasabah)
+- **Interactive Hub:** https://ridlo.id/waqf-framework
+- **Canonical Knowledge Base:** [Essay](https://ridlo.id/posts/waqf-prophetic-management-cycle-beyond-pdca-poac-okr) · [Atomic Note ZK-035](https://ridlo.id/notes/waqf-prophetic-management-cycle-wijhah-azam-qiyam-fahs)
 
 ---
 
-## 1. Problem Statement: Why Secular Management Loops Break Under Pressure
+## 1. Problem Statement: Why Value-Neutral Western Management Loops Break Under Pressure
 
-Modern management frameworks—such as *Goal–Plan–Execution–Review* (**GPER**), **POAC** (*Planning, Organizing, Actuating, Controlling*, George R. Terry, 1958), **PDCA** (*Plan–Do–Check–Act*, W. Edwards Deming, 1950), and **MBO / OKR**—were engineered as ***value-neutral*** mechanics. They tell an organization how to set KPIs and measure variance, yet remain silent when:
+Modern management frameworks—such as **PDCA** (*Plan–Do–Check–Act*, W. Edwards Deming, 1950), **POAC** (*Planning, Organizing, Actuating, Controlling*, George R. Terry, 1958), **MBO** (*Management by Objectives*, Peter Drucker, 1954), **OKR**, and **4DX**—were engineered as ***value-neutral*** mechanics. They tell an organization how to set KPIs and measure variance, yet remain silent when:
 
 1. **Ends justify unethical means:** Aggressive KPI targets incentivize *gharar*, false reporting, exploitative pricing, or hidden conflicts of interest.
 2. **Authority crushes truth:** Leaders silence bottom-up operational objections because every plan carries implicit executive ego.
@@ -25,48 +26,48 @@ The **WAQF Framework** (*Idarah Nabawiyyah*) eliminates these structural failure
 ```text
 Best Leader (Character Axis · SAFT: Shiddiq, Amanah, Fathanah, Tabligh)
       ×
-Best Manager (Operational Axis · WAQF: Wijhah – 'Azam – Qiyam – Fahs | NSIM: Niyyah – Syura – Itqan – Muhasabah)
+Best Manager (Operational Axis · WAQF: Wijhah – 'Azam – Qiyam – Fahs)
 ```
 
 ---
 
 ## 2. Why the Name **WAQF**? Dual Semantic Precision
 
-Choosing **WAQF** is not superficial wordplay—it fuses linguistic precision with institutional philosophy:
-1. **Acronym Precision (Authentic Arabic Equivalents of GPER):**
-   - **W — *Wijhah* (وِجْهَة · Goal):** Guided orientation & purposeful direction (*QS. Al-Baqarah [2]: 148*).
-   - **A — *'Azam* (عَزْم · Plan):** Consultative resolve ratified through *Syura* (*QS. Ali 'Imran [3]: 159*).
-   - **Q — *Qiyam* (قِيَام · Execution):** Upright, energetic execution (*Al-Qiyam bil-Amr*, *QS. An-Nisa [4]: 135*, *QS. Saba' [34]: 46*, *QS. Maryam [19]: 12*).
-   - **F — *Fahs* (فَحْص · Review):** Rigorous evidence-based inspection & *Furqan* auditing (*QS. Al-Anfal [8]: 29*).
+Choosing **WAQF** fuses linguistic precision with institutional philosophy:
+1. **Acronym Precision (Authentic Qur'anic Stages):**
+   - **W — *Wijhah* (وِجْهَة · Direction & Objectives):** Guided orientation & purposeful direction (*QS. Al-Baqarah [2]: 148*).
+   - **A — *'Azam* (عَزْم · Plan & Organizing):** Consultative resolve ratified through *Syura* (*QS. Ali 'Imran [3]: 159*).
+   - **Q — *Qiyam* (قِيَام · Execution & Key Results):** Upright, energetic execution (*Al-Qiyam bil-Amr*, *QS. An-Nisa [4]: 135*, *QS. Saba' [34]: 46*, *QS. Maryam [19]: 12*).
+   - **F — *Fahs* (فَحْص · Inspection, Controlling & Cadence):** Rigorous evidence-based inspection & *Furqan* auditing (*QS. Al-Anfal [8]: 29*).
 2. **Philosophical Meaning of *Waqf* (*Habsul-Ashl wa Tasbilus-Tsamarah*):** To preserve the core principal/integrity unharmed (*Tauqifi* guardrails and *Amanah*) while streaming continuous productive benefit (*Maslahah* and *Itqan*).
 
 ---
 
 ## 3. Legal & Prior-Art Positioning (Indonesian Copyright Law & Open Standards)
 
-Generic management loops (GPER, PDCA, POAC, OKR) are public-domain ideas. Under **Indonesian Copyright Law No. 28 of 2014, Article 41(b)** (*UU Hak Cipta Pasal 41 huruf b*), *ideas, procedures, systems, methods, concepts, principles, discoveries, or data* are excluded from copyright monopoly; copyright protects only specific literary expressions, branded module texts, and visual worksheet layouts.
+Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are public-domain ideas. Under **Indonesian Copyright Law No. 28 of 2014, Article 41(b)** (*UU Hak Cipta Pasal 41 huruf b*), *ideas, procedures, systems, methods, concepts, principles, discoveries, or data* are excluded from copyright monopoly.
 
 **WAQF Framework** is an independent, original formulation:
 1. Synthesized directly from **Al-Qur'an, Authentic Hadith (Sahih al-Bukhari & Sahih Muslim), and Prophetic Sirah** (*Badr, Khandaq, Market of Madinah, Shahifah al-Madinah*).
-2. Structured around an original **2D WAQF / NSIM × SAFT matrix**, **13 Hadith Operational Protocols**, a **1-Page Execution Canvas**, a machine-readable **JSON Schema**, and an **AI Agent Skill**.
+2. Structured around an original **2D WAQF × SAFT matrix**, **13 Hadith Operational Protocols**, a **1-Page Execution Canvas**, a machine-readable **JSON Schema**, and an **AI Agent Skill**.
 3. Published openly under a dual license (`CC-BY-SA-4.0` for methodology/SOPs and `MIT` for schemas/skills/templates) with verifiable Git history to establish **public prior art** while empowering any institution to adopt and adapt it freely with attribution.
 
 ---
 
-## 4. The 2D Architecture: **WAQF (`NSIM`) × SAFT**
+## 4. The 2D Architecture: **WAQF × SAFT**
 
-| WAQF Stage | NSIM Operational Pillar | Secular GPER | Governing SAFT Pillars | Core Transcendental & Operational Mandate |
+| WAQF Stage | Nabawi Elements | Western Classic Equivalent | Governing SAFT Pillars | Core Transcendental & Operational Mandate |
 | :--- | :--- | :--- | :--- | :--- |
-| **W — Wijhah** | **Niyyah & Ru'yah** | *Goal* | **Shiddiq** & **Fathanah** | Purify motive (*Ikhlas* & real *Maslahah*), anchor an inspiring strategic horizon (*Al-Bisyarah*), and define honest, bounded metrics (*Al-Miqdar*). |
-| **A — 'Azam** | **Syura & Tadbir** | *Plan* | **Fathanah** & **Amanah** | Formulate plans via *Syura* until ratified into collective *'Azam*, separate non-negotiable *Tauqifi* principles from adaptable *Ijtihadi* tactics, and delegate strictly to *Al-Qawiyy Al-Amin*. |
-| **Q — Qiyam** | **Itqan & I'anah** | *Execution* | **Tabligh** & **Uswah** | Execute uprightly with craftsman precision (*Itqan*), lead physically on the front lines during critical phases (*Uswah*), fulfill the manager's duty to assist (*Fa-a'inuhum*), and settle dues punctually. |
-| **F — Fahs** | **Muhasabah & Hisbah** | *Review* | **Shiddiq** & **Amanah** | Conduct mid-cycle field inspections (*Hisbah*), verify claims with physical artifacts (*Fahs / At-Tahqiq*), run dual outcome + anti-gratification audits (*Ibnul Lutbiyyah*), and enforce dignified systemic reform (*Islah*) with zero elite impunity. |
+| **W — Wijhah** | *Niyyah, Ru'yah & Al-Miqdar* | *Objectives / Goal Setting* | **Shiddiq** & **Fathanah** | Purify motive (*Ikhlas* & real *Maslahah*), anchor an inspiring strategic horizon (*Al-Bisyarah*), and define honest, bounded metrics (*Al-Miqdar*). |
+| **A — 'Azam** | *Syura, Tadbir & Tafwidh* | *Plan / Organizing* | **Fathanah** & **Amanah** | Formulate plans via *Syura* until ratified into collective *'Azam*, separate non-negotiable *Tauqifi* principles from adaptable *Ijtihadi* tactics, and delegate strictly to *Al-Qawiyy Al-Amin*. |
+| **Q — Qiyam** | *Itqan, Uswah & I'anah* | *Do / Actuating / Key Results* | **Tabligh** & **Uswah** | Execute uprightly with craftsman precision (*Itqan*), lead physically on the front lines during critical phases (*Uswah*), fulfill the manager's duty to assist (*Fa-a'inuhum*), and settle dues punctually. |
+| **F — Fahs** | *Hisbah, At-Tahqiq & Muhasabah* | *Check–Act / Controlling / Cadence* | **Shiddiq** & **Amanah** | Conduct mid-cycle field inspections (*Hisbah*), verify claims with physical artifacts (*Fahs / At-Tahqiq*), run dual outcome + anti-gratification audits (*Ibnul Lutbiyyah*), and enforce dignified systemic reform (*Islah*) with zero elite impunity. |
 
 ---
 
 ## 5. The 4 Disciplines & 13 Prophetic Hadith Protocols
 
-### Discipline 1 (W): WIJHAH — *Niyyah & Ru'yah (Purpose, Guiding Vision & Quantified Targets)*
+### Discipline 1 (W): WIJHAH — *Niyyah, Ru'yah & Al-Miqdar (Purpose, Guiding Vision & Quantified Targets)*
 *Qur'anic Anchor:* *"For each is a direction (wijhah) toward which it turns; so race to all that is good"* (QS. Al-Baqarah [2]: 148). · *Governing Traits:* **Shiddiq & Fathanah**.
 
 1. **Protocol *Innamal A'malu bin-Niyyat* (`P01` — Purification of Motive & Maslahah)**
@@ -81,7 +82,7 @@ Generic management loops (GPER, PDCA, POAC, OKR) are public-domain ideas. Under 
 
 ---
 
-### Discipline 2 (A): 'AZAM — *Syura & Tadbir (Participatory Resolve, Tactical Separation & Merit Delegation)*
+### Discipline 2 (A): 'AZAM — *Syura, Tadbir & Tafwidh (Participatory Resolve, Tactical Separation & Merit Delegation)*
 *Qur'anic Anchor:* *"Consult them in the matter; and when you have decided ('azam), then rely upon Allah"* (QS. Ali 'Imran [3]: 159). · *Governing Traits:* **Fathanah & Amanah**.
 
 4. **Protocol *Hubab bin Mundzir* (`P04` — Strict Separation of *Tauqifi* vs. *Ijtihadi*)**
@@ -98,7 +99,7 @@ Generic management loops (GPER, PDCA, POAC, OKR) are public-domain ideas. Under 
 
 ---
 
-### Discipline 3 (Q): QIYAM — *Itqan & I'anah (Upright Execution, Frontline Modeling & Managerial Coaching)*
+### Discipline 3 (Q): QIYAM — *Itqan, Uswah & I'anah (Upright Execution, Frontline Modeling & Managerial Coaching)*
 *Qur'anic Anchor:* *"Stand firmly (qawwamin) in justice"* (QS. An-Nisa [4]: 135) & *"Hold fast to the Scripture with strength (quwwah)"* (QS. Maryam [19]: 12). · *Governing Traits:* **Tabligh & Uswah**.
 
 7. **Protocol *Al-Itqan* (`P07` — Craftsman Precision & Definition of Done)**
@@ -108,7 +109,7 @@ Generic management loops (GPER, PDCA, POAC, OKR) are public-domain ideas. Under 
    - **Primary Source:** Qur'an Al-Ahzab 33:21 & the Prophet ﷺ physically carrying stones for Masjid Nabawi and breaking boulders in the Khandaq trench.
    - **Mandatory Rule:** During critical launches, high-risk migrations, or operational crises, leaders step onto the front line alongside the team rather than commanding from afar.
 9. **Protocol *Fa-a'inuhum* (`P09` — Mandatory Managerial Enablement, Dignity & Timely Compensation)**
-   - **Primary Source:** *"Do not burden them beyond what overwhelms them; and if you do assign them heavy work, then assist them!"* (Muttafaqun 'Alaih from Abu Dzar r.a.); Anas bin Malik's 10-year testimony of zero verbal abuse; and Hadith Qudsi (Sahih al-Bukhari) forbidding delayed payment to workers.
+   - **Primary Source:** *"Do not burden them beyond what overwhelms them; and if you do assign them a heavy work, then assist them!"* (Muttafaqun 'Alaih from Abu Dzar r.a.); Anas bin Malik's 10-year testimony of zero verbal abuse; and Hadith Qudsi (Sahih al-Bukhari) forbidding delayed payment to workers.
    - **Mandatory Rule:**
      - Every ambitious target paired to a team **must include an explicit manager enablement & unblocking plan**.
      - Zero verbal abuse or humiliation is permitted under stress.
@@ -116,14 +117,14 @@ Generic management loops (GPER, PDCA, POAC, OKR) are public-domain ideas. Under 
 
 ---
 
-### Discipline 4 (F): FAHS — *Muhasabah & Hisbah (Physical Inspection, Furqan Evidence Audit & Systemic Islah)*
+### Discipline 4 (F): FAHS — *Hisbah, At-Tahqiq & Muhasabah (Physical Inspection, Furqan Evidence Audit & Systemic Islah)*
 *Qur'anic Anchor:* *Al-Fahs* (thorough evidence examination) & **QS. Al-Anfal [8]: 29** (*Al-Furqan*: clear discernment between truth and falsehood). · *Governing Traits:* **Shiddiq & Amanah**.
 
 10. **Protocol *Hisbah / Taftish al-Suq* (`P10` — Mid-Cycle Process & Ethics Inspection)**
     - **Primary Source (Sirah — Madinah Market Supervision):** Acting directly as *Al-Muhtasib*, the Prophet ﷺ inspected market weights and quality mid-transaction, eliminating *riba, gharar, ihtikar, najasy,* and *tadlis*.
     - **Mandatory Rule:** Quality and ethics reviews cannot wait until quarter-end. Every cycle schedules **mid-cycle process inspections (*Hisbah*)** to detect drift early.
 11. **Protocol *Two Youths of Badr / At-Tahqiq* (`P11` — Physical Evidence Verification)**
-    - **Primary Source (Sirah — Battle of Badr):** When two young Anshar claimed credit for slaying Abu Jahl, the Prophet ﷺ examined physical proof (*"Have you wiped your swords?"*) before ruling.
+    - **Primary Source (Sirah — Battle of Badr):** When two young Anshar claimed credit for slaying Abu Jahal, the Prophet ﷺ examined physical proof (*"Have you wiped your swords?"*) before ruling.
     - **Mandatory Rule:** Every KPI claim in a Review session **requires verifiable physical or digital artifacts** (bank ledgers, production telemetry, merged commits, signed receipts, or field photos). Unverified verbal claims do not count.
 12. **Protocol *Ibnul Lutbiyyah / Falamma Qadima Hasabahu* (`P12` — Dual Outcome + Anti-Gratification Audit)**
     - **Primary Source:** Sahih al-Bukhari & Sahih Muslim audit of zakat collector Ibnul Lutbiyyah, where the Prophet ﷺ audited collection totals while strictly forbidding office-linked gifts (*"Why did he not sit in his father's and mother's house to see whether gifts were brought to him or not?"*).

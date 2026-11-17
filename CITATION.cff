@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "WAQF Framework: The 2D Prophetic Management Cycle (Wijhah – 'Azam – Qiyam – Fahs / NSIM × SAFT)"
+title: "WAQF Framework: The 2D Prophetic Management Cycle (Wijhah – 'Azam – Qiyam – Fahs × SAFT)"
 message: "If you adopt, teach, or build upon the WAQF Prophetic Management Cycle in research, training, or organizational SOPs, please cite this specification."
 type: software
 authors:
@@ -8,12 +8,13 @@ authors:
     website: "https://ridlo.id"
 abstract: >-
   WAQF Framework is an open, value-laden 2D Prophetic Management standard
-  uniting the 4-stage WAQF operational cycle—Wijhah (Niyyah & Ru'yah), 'Azam
-  (Syura & Tadbir), Qiyam (Itqan & I'anah), and Fahs (Muhasabah & Hisbah)—
-  with the 4 Prophetic character traits (SAFT: Shiddiq, Amanah, Fathanah,
-  Tabligh), operationalized through 13 Hadith and Sirah protocols, a 1-Page
-  Execution Canvas, GitHub governance templates, JSON Schema, and an AI Agent
-  Skill.
+  replacing value-neutral Western loops (PDCA, POAC, MBO, OKR, 4DX) by
+  uniting the 4-stage WAQF operational cycle—Wijhah (Niyyah, Ru'yah &
+  Al-Miqdar), 'Azam (Syura, Tadbir & Tafwidh), Qiyam (Itqan, Uswah &
+  I'anah), and Fahs (Hisbah, At-Tahqiq & Muhasabah)—with the 4 Prophetic
+  character traits (SAFT: Shiddiq, Amanah, Fathanah, Tabligh), operationalized
+  through 13 Hadith and Sirah protocols, a 1-Page Execution Canvas, GitHub
+  governance templates, JSON Schema, and an AI Agent Skill.
 keywords:
   - waqf-framework
   - waqf
@@ -21,14 +22,13 @@ keywords:
   - azam
   - qiyam
   - fahs
-  - nsim
   - prophetic-management
   - islamic-management
   - saft
   - second-brain
   - agent-skills
-version: "1.1.0"
+version: "1.2.0"
 date-released: "2026-11-17"
 license: "CC-BY-SA-4.0 AND MIT"
 repository-code: "https://github.com/ridloabelian/waqf-framework"
-url: "https://ridlo.id/posts/nsim-prophetic-management-cycle-beyond-gper"
+url: "https://ridlo.id/waqf-framework"

@@ -1,6 +1,6 @@
 ## Ringkasan Perubahan & Keterkaitan Siklus **WAQF**
 - **Issue / Kanvas Terkait:** `#[nomor-issue]`
-- **Tahap WAQF (NSIM):** `[W: Wijhah/Niyyah | A: 'Azam/Syura | Q: Qiyam/Itqan | F: Fahs/Muhasabah]`
+- **Tahap WAQF:** `[W: Wijhah | A: 'Azam | Q: Qiyam | F: Fahs]`
 
 ### 1. *Wijhah & Pagar Tauqifi* (Keamanan, Syariat, & Integritas)
 - [ ] Perubahan ini selaras dengan *Maslahah* utama proyek (tanpa *mudarat* / *dark pattern*).

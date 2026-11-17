@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Formulir ini menjalankan **Disiplin F — Fahs (`Muhasabah & Hisbah`)**: inspeksi proses (*Hisbah*), verifikasi bukti fisik (*At-Tahqiq*), audit hasil + anti-gratifikasi (*Ibnul Lutbiyyah*), dan perbaikan sistemik (*Islah · Ta'ridh*).
+        Formulir ini menjalankan **Disiplin F — Fahs (`Hisbah, At-Tahqiq & Muhasabah`)**: inspeksi proses (*Hisbah*), verifikasi bukti fisik (*At-Tahqiq*), audit hasil + anti-gratifikasi (*Ibnul Lutbiyyah*), dan perbaikan sistemik (*Islah · Ta'ridh*).
 
   - type: dropdown
     id: audit_phase

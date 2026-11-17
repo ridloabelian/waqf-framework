@@ -1,18 +1,18 @@
 ---
 name: waqf-prophetic-management
-description: Operationalizes the 2D WAQF Prophetic Management Cycle (Wijhah – 'Azam – Qiyam – Fahs, powered by NSIM: Niyyah – Syura – Itqan – Muhasabah × SAFT: Shiddiq, Amanah, Fathanah, Tabligh) using 13 authentic Hadith and Sirah operational protocols. Use when asked to draft a 1-Page WAQF Execution Canvas, audit a plan/OKR/PRD against Prophetic standards, facilitate Syura (Tauqifi vs. Ijtihadi separation & Al-Qawiyy Al-Amin delegation), or conduct evidence-based Mid-Cycle Hisbah and Post-Cycle Fahs/Muhasabah reviews.
+description: Operationalizes the 2D WAQF Prophetic Management Cycle (Wijhah – 'Azam – Qiyam – Fahs × SAFT: Shiddiq, Amanah, Fathanah, Tabligh) using 13 authentic Hadith and Sirah operational protocols. Use when asked to draft a 1-Page WAQF Execution Canvas, audit a plan/OKR/PRD/PDCA loop against Prophetic standards, facilitate Syura (Tauqifi vs. Ijtihadi separation & Al-Qawiyy Al-Amin delegation), or conduct evidence-based Mid-Cycle Hisbah and Post-Cycle Fahs/Muhasabah reviews.
 ---
 
 # WAQF Prophetic Management Skill
 
-Use this skill whenever the user wants to replace value-neutral management loops (**GPER**, **POAC**, **PDCA**, **OKR**) with the value-laden **WAQF Prophetic Management Cycle (*Wijhah – 'Azam – Qiyam – Fahs*)** powered by **NSIM (*Niyyah – Syura – Itqan – Muhasabah*)**, anchored on the four Prophetic character traits (**SAFT**: *Shiddiq, Amanah, Fathanah, Tabligh*) and **Dual Accountability (*Mas'uliyyah*)**.
+Use this skill whenever the user wants to replace value-neutral Western management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) with the value-laden **WAQF Prophetic Management Cycle (*Wijhah – 'Azam – Qiyam – Fahs*)**, anchored on the four Prophetic character traits (**SAFT**: *Shiddiq, Amanah, Fathanah, Tabligh*) and **Dual Accountability (*Mas'uliyyah*)**.
 
 ## Core Architectural Equation
 
 ```text
 Best Leader (SAFT Character: Shiddiq, Amanah, Fathanah, Tabligh)
       ×
-Best Manager (WAQF Cycle: Wijhah → 'Azam → Qiyam → Fahs | NSIM: Niyyah → Syura → Itqan → Muhasabah)
+Best Manager (WAQF Cycle: Wijhah → 'Azam → Qiyam → Fahs)
 ```
 
 ---
@@ -25,14 +25,14 @@ Select the matching mode based on the user's request:
 Trigger: User asks to plan a project, quarter, campaign, product launch, or program using the WAQF Framework.
 1. Gather or extract the project code, entity, Primary DRI, cycle window, and mid-cycle *Hisbah* date.
 2. Fill all four quadrants strictly:
-   - **W — Wijhah (*Niyyah & Ru'yah · Shiddiq & Fathanah · QS. Al-Baqarah [2]: 148*):** State vertical *Al-Niyyah* (**P01**), real-world *Maslahah*, guiding *Al-Bisyarah* vision (**P02**), and 1–3 bounded *Al-Miqdar* quantitative targets with risk/budget ceilings (**P03**).
-   - **A — 'Azam (*Syura & Tadbir · Fathanah & Amanah · QS. Ali 'Imran [3]: 159*):** Explicitly split **Tauqifi** non-negotiables (Sharia/muamalah contracts, data privacy, security, ethics) from **Ijtihadi** tactics open to team critique (**P04 · *Hubab bin Mundzir***); mandate team co-ratification into *'Azam* (**P05 · *Badr***); assign only DRIs cleared on both *Al-Quwwah* and *Al-Amanah* (**P06 · *Abu Dzar***).
-   - **Q — Qiyam (*Itqan & I'anah · Tabligh & Uswah · QS. An-Nisa [4]: 135, QS. Maryam [19]: 12*):** Define exact *Definition of Done* (**P07 · *Al-Itqan***), specify critical phases where leadership joins on the front line (**P08 · *Al-Uswah***), and state the concrete *Fa-a'inuhum* manager enablement plan, zero-humiliation rule, and punctual compensation date (**P09**).
-   - **F — Fahs (*Muhasabah & Hisbah · Shiddiq & Amanah · QS. Al-Anfal [8]: 29*):** Schedule mid-cycle *Hisbah* (**P10**), specify required verifiable physical/digital artifacts (**P11 · *At-Tahqiq***), attach the dual outcome + anti-gratification audit (**P12 · *Ibnul Lutbiyyah***), and reserve dignified systemic *Islah* (**P13 · *Ta'ridh & Bani Makhzum***).
+   - **W — Wijhah (*Niyyah, Ru'yah & Al-Miqdar · Shiddiq & Fathanah · QS. Al-Baqarah [2]: 148*):** State vertical *Al-Niyyah* (**P01**), real-world *Maslahah*, guiding *Al-Bisyarah* vision (**P02**), and 1–3 bounded *Al-Miqdar* quantitative targets with risk/budget ceilings (**P03**).
+   - **A — 'Azam (*Syura, Tadbir & Tafwidh · Fathanah & Amanah · QS. Ali 'Imran [3]: 159*):** Explicitly split **Tauqifi** non-negotiables (Sharia/muamalah contracts, data privacy, security, ethics) from **Ijtihadi** tactics open to team critique (**P04 · *Hubab bin Mundzir***); mandate team co-ratification into *'Azam* (**P05 · *Badr***); assign only DRIs cleared on both *Al-Quwwah* and *Al-Amanah* (**P06 · *Abu Dzar***).
+   - **Q — Qiyam (*Itqan, Uswah & I'anah · Tabligh & Uswah · QS. An-Nisa [4]: 135, QS. Maryam [19]: 12*):** Define exact *Definition of Done* (**P07 · *Al-Itqan***), specify critical phases where leadership joins on the front line (**P08 · *Al-Uswah***), and state the concrete *Fa-a'inuhum* manager enablement plan, zero-humiliation rule, and punctual compensation date (**P09**).
+   - **F — Fahs (*Hisbah, At-Tahqiq & Muhasabah · Shiddiq & Amanah · QS. Al-Anfal [8]: 29*):** Schedule mid-cycle *Hisbah* (**P10**), specify required verifiable physical/digital artifacts (**P11 · *At-Tahqiq***), attach the dual outcome + anti-gratification audit (**P12 · *Ibnul Lutbiyyah***), and reserve dignified systemic *Islah* (**P13 · *Ta'ridh & Bani Makhzum***).
 3. Output using the structure in [1-page-waqf-canvas.id.md](../../templates/1-page-waqf-canvas.id.md) (Indonesian) or [1-page-waqf-canvas.en.md](../../templates/1-page-waqf-canvas.en.md) (English), or valid JSON matching [waqf-canvas.schema.json](../../schema/waqf-canvas.schema.json).
 
 ### Mode 2: Pre-Flight Audit of an Existing Plan / OKR / PRD
-Trigger: User shares a project plan, GPER canvas, PRD, or OKR and asks you to review/audit it.
+Trigger: User shares a project plan, PDCA/POAC draft, PRD, or OKR and asks you to review/audit it.
 Run a deterministic pass/fail audit against **Protocols P01–P09**:
 - **Flag Critical Gaps** if any of these are missing:
   1. Target metrics exist without stated *Wijhah / Niyyah* & *Maslahah* (**P01**).

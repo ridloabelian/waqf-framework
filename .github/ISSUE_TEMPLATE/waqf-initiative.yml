@@ -1,12 +1,12 @@
 name: "WAQF Initiative (Wijhah · 'Azam · Qiyam)"
-description: "Mulai inisiatif, fitur besar, atau program kuartalan baru menggunakan pagar 13 Protokol WAQF / NSIM."
+description: "Mulai inisiatif, fitur besar, atau program kuartalan baru menggunakan pagar 13 Protokol WAQF Framework."
 title: "[WAQF] <Nama Inisiatif>"
 labels: ["waqf-initiative", "stage:azam-syura"]
 body:
   - type: markdown
     attributes:
       value: |
-        Gunakan form ini untuk mengunci **Disiplin W — Wijhah (`Niyyah & Ru'yah`)**, **Disiplin A — 'Azam (`Syura & Tadbir`)**, dan kesiapan **Disiplin Q — Qiyam (`Itqan & I'anah`)** sebelum eksekusi dimulai.
+        Gunakan form ini untuk mengunci **Disiplin W — Wijhah (`Niyyah, Ru'yah & Al-Miqdar`)**, **Disiplin A — 'Azam (`Syura, Tadbir & Tafwidh`)**, dan kesiapan **Disiplin Q — Qiyam (`Itqan, Uswah & I'anah`)** sebelum eksekusi dimulai.
 
   - type: input
     id: project_code

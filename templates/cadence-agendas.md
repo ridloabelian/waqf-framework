@@ -1,5 +1,5 @@
 # Agenda & Ritme Rapat Organisasi Berbasis **WAQF Framework**
-**(*Wijhah – 'Azam – Qiyam – Fahs* · Powered by *NSIM*)**
+**(*Wijhah – 'Azam – Qiyam – Fahs* × *SAFT*)**
 
 Dokumen ini memuat panduan fasilitasi rapat 4 lapis agar siklus **WAQF** berjalan sebagai kebiasaan harian tim, bukan sekadar dokumen arsip.
 

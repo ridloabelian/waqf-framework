@@ -1,6 +1,6 @@
 ---
 type: waqf-project
-standard: waqf-framework-v1.1
+standard: waqf-framework-v1.2
 pillar: P1-Self-Leadership
 code: "{{PROJECT_CODE}}"
 title: "{{TITLE}}"
@@ -18,18 +18,17 @@ status: draft # draft | azam-ratified | qiyam-execution | hisbah | closed-islah
 integrity_audit: pending # pending | clean | finding
 tags:
   - waqf-framework
-  - nsim
   - prophetic-management
   - projects
 ---
 
 # {{PROJECT_CODE}} — {{TITLE}}
 
-> **Arsitektur WAQF Framework:** *Best Leader (SAFT Character)* × *Best Manager (WAQF Cycle: Wijhah – 'Azam – Qiyam – Fahs · NSIM)*
+> **Arsitektur WAQF Framework:** *Best Leader (SAFT Character)* × *Best Manager (WAQF Cycle: Wijhah – 'Azam – Qiyam – Fahs)*
 
 ---
 
-## W — WIJHAH (*Niyyah & Ru'yah · Goal · Shiddiq & Fathanah*)
+## W — WIJHAH (*Niyyah, Ru'yah & Al-Miqdar · Shiddiq & Fathanah*)
 - **Al-Niyyah (Vertical Why):** 
 - **Maslahah Nyata (Horizontal Impact):** 
 - **Al-Bisyarah (Guiding Vision):** 
@@ -38,7 +37,7 @@ tags:
   2. 
   3. 
 
-## A — 'AZAM (*Syura & Tadbir · Plan · Fathanah & Amanah*)
+## A — 'AZAM (*Syura, Tadbir & Tafwidh · Fathanah & Amanah*)
 ### Pagar *Tauqifi* (Non-Negotiable)
 - Syariat / Akad Muamalah / Regulasi / Keamanan Data:
   - 
@@ -54,7 +53,7 @@ tags:
 
 - **Tanggal Kesepakatan *'Azam* Tim (*Protokol Badar*):** `{{AZAM_DATE}}`
 
-## Q — QIYAM (*Itqan & I'anah · Execution · Tabligh & Uswah*)
+## Q — QIYAM (*Itqan, Uswah & I'anah · Tabligh & Uswah*)
 - **Definition of Done (*Al-Itqan*):**
   - [ ] 
 - **Titik Kehadiran Langsung Leader (*Al-Uswah Al-Hasanah*):**
@@ -64,7 +63,7 @@ tags:
   - Hambatan yang diurai manajer: 
   - Tanggal pembayaran hak tim/mitra tepat waktu: 
 
-## F — FAHS (*Muhasabah & Hisbah · Review · Shiddiq & Amanah*)
+## F — FAHS (*Hisbah, At-Tahqiq & Muhasabah · Shiddiq & Amanah*)
 - **Catatan Inspeksi Tengah Jalan (*Hisbah / Taftish al-Suq*):**
   - 
 - **Daftar Bukti Fisik (*Fahs / At-Tahqiq* — Wajib Lampirkan Artefak):**
