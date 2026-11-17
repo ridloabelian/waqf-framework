@@ -1,22 +1,22 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/ridloabelian/open-nsim/blob/main/schema/nsim-canvas.schema.json",
-  "title": "Open-NSIM Prophetic Management Canvas",
-  "description": "Machine-readable schema representing a complete 1-Page NSIM Execution Canvas (Niyyah & Ru'yah, Syura & Tadbir, Itqan & I'anah, Muhasabah & Hisbah) governed by Prophetic SAFT traits and the 13 Hadith operational protocols.",
+  "$id": "https://github.com/ridloabelian/waqf-framework/blob/main/schema/waqf-canvas.schema.json",
+  "title": "WAQF Framework Prophetic Management Canvas",
+  "description": "Machine-readable schema representing a complete 1-Page WAQF Execution Canvas (W: Wijhah / Niyyah & Ru'yah, A: 'Azam / Syura & Tadbir, Q: Qiyam / Itqan & I'anah, F: Fahs / Muhasabah & Hisbah) governed by Prophetic SAFT traits and 13 Hadith operational protocols.",
   "type": "object",
   "additionalProperties": false,
   "required": [
     "schema_version",
     "metadata",
-    "niyyah_ruyah",
-    "syura_tadbir",
-    "itqan_ianah",
-    "muhasabah_hisbah"
+    "w_wijhah",
+    "a_azam",
+    "q_qiyam",
+    "f_fahs"
   ],
   "properties": {
     "schema_version": {
       "type": "string",
-      "const": "open-nsim/1.0.0"
+      "const": "waqf-framework/1.1.0"
     },
     "metadata": {
       "type": "object",
@@ -73,17 +73,17 @@
           "enum": [
             "draft",
             "azam-ratified",
-            "in-execution",
+            "qiyam-execution",
             "mid-cycle-hisbah",
             "closed-islah"
           ]
         }
       }
     },
-    "niyyah_ruyah": {
+    "w_wijhah": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Stage 1: Goal phase anchored by Shiddiq & Fathanah.",
+      "description": "Stage W (Wijhah · Niyyah & Ru'yah): Goal phase anchored by Shiddiq & Fathanah (QS. Al-Baqarah [2]: 148).",
       "required": [
         "al_niyyah_vertical",
         "maslahah_horizontal",
@@ -125,10 +125,10 @@
         }
       }
     },
-    "syura_tadbir": {
+    "a_azam": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Stage 2: Plan & Delegation phase anchored by Fathanah & Amanah.",
+      "description": "Stage A ('Azam · Syura & Tadbir): Plan & Delegation phase anchored by Fathanah & Amanah (QS. Ali 'Imran [3]: 159).",
       "required": [
         "tauqifi_guardrails",
         "ijtihadi_tactics",
@@ -179,10 +179,10 @@
         }
       }
     },
-    "itqan_ianah": {
+    "q_qiyam": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Stage 3: Execution & Coaching phase anchored by Tabligh & Uswah.",
+      "description": "Stage Q (Qiyam · Itqan & I'anah): Upright Execution & Coaching phase anchored by Tabligh & Uswah (QS. An-Nisa [4]: 135, QS. Maryam [19]: 12).",
       "required": [
         "definition_of_done",
         "uswah_touchpoints",
@@ -233,10 +233,10 @@
         }
       }
     },
-    "muhasabah_hisbah": {
+    "f_fahs": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Stage 4: Review & Reform phase anchored by Shiddiq & Amanah.",
+      "description": "Stage F (Fahs · Muhasabah & Hisbah): Inspection, Evidence Audit & Reform phase anchored by Shiddiq & Amanah (QS. Al-Anfal [8]: 29).",
       "required": [
         "mid_cycle_hisbah_findings",
         "at_tahqiq_artifacts",

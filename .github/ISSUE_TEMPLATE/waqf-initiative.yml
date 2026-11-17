@@ -1,12 +1,12 @@
-name: "NSIM Initiative (Niyyah · Syura · Itqan)"
-description: "Mulai inisiatif, fitur besar, atau program kuartalan baru menggunakan pagar 13 Protokol NSIM."
-title: "[NSIM] <Nama Inisiatif>"
-labels: ["nsim-initiative", "stage:syura"]
+name: "WAQF Initiative (Wijhah · 'Azam · Qiyam)"
+description: "Mulai inisiatif, fitur besar, atau program kuartalan baru menggunakan pagar 13 Protokol WAQF / NSIM."
+title: "[WAQF] <Nama Inisiatif>"
+labels: ["waqf-initiative", "stage:azam-syura"]
 body:
   - type: markdown
     attributes:
       value: |
-        Gunakan form ini untuk mengunci **Disiplin 1 (Niyyah & Ru'yah)**, **Disiplin 2 (Syura & Tadbir)**, dan kesiapan **Disiplin 3 (Itqan & I'anah)** sebelum eksekusi dimulai.
+        Gunakan form ini untuk mengunci **Disiplin W — Wijhah (`Niyyah & Ru'yah`)**, **Disiplin A — 'Azam (`Syura & Tadbir`)**, dan kesiapan **Disiplin Q — Qiyam (`Itqan & I'anah`)** sebelum eksekusi dimulai.
 
   - type: input
     id: project_code
@@ -17,9 +17,9 @@ body:
       required: true
 
   - type: textarea
-    id: niyyah_maslahah
+    id: wijhah_niyyah_maslahah
     attributes:
-      label: "1. Al-Niyyah & Maslahah (Protokol Innamal A'malu bin-Niyyat)"
+      label: "W.1 Al-Niyyah & Maslahah (Protokol P01 · Innamal A'malu bin-Niyyat)"
       description: "Mengapa inisiatif ini layak secara amanah di hadapan Allah ﷻ, dan apa manfaat konkret bagi umat/pelanggan?"
       placeholder: |
         - Niat vertikal: ...
@@ -28,9 +28,9 @@ body:
       required: true
 
   - type: textarea
-    id: bisyarah_miqdar
+    id: wijhah_bisyarah_miqdar
     attributes:
-      label: "2. Al-Bisyarah & 1–3 Target Al-Miqdar"
+      label: "W.2 Al-Bisyarah & 1–3 Target Al-Miqdar (Protokol P02 & P03)"
       description: "Visi menang + target kuantitatif, tanggal selesai pasti, dan batas modal/risiko maksimal."
       placeholder: |
         - Al-Bisyarah (Guiding Vision): ...
@@ -41,9 +41,9 @@ body:
       required: true
 
   - type: textarea
-    id: tauqifi_ijtihadi
+    id: azam_tauqifi_ijtihadi
     attributes:
-      label: "3. Pagar Tauqifi vs. Ruang Ijtihadi (Protokol Hubab bin Mundzir)"
+      label: "A.1 Pagar Tauqifi vs. Ruang Ijtihadi (Protokol P04 · Hubab bin Mundzir)"
       description: "Pisahkan prinsip harga mati (syariat, akad, keamanan data, hukum) dari taktik adaptif yang terbuka untuk kritik tim."
       placeholder: |
         **Domain Tauqifi (Tidak Boleh Ditawar):**
@@ -54,12 +54,12 @@ body:
       required: true
 
   - type: textarea
-    id: itqan_ianah
+    id: qiyam_itqan_ianah
     attributes:
-      label: "4. Definition of Done (Itqan) & Dukungan Manajer (Fa-a'inuhum)"
-      description: "Standar tuntas presisi + sumber daya/unblocking yang disiapkan manajer + tanggal komitmen hak mitra."
+      label: "Q.1 Definition of Done (Itqan) & Dukungan Manajer (Fa-a'inuhum) (P07–P09)"
+      description: "Standar tuntas presisi + kehadiran leader di garis depan + sumber daya/unblocking manajer + tanggal komitmen hak mitra."
       placeholder: |
-        - Definition of Done (Itqan): ...
+        - Definition of Done (Al-Itqan): ...
         - Titik hadir langsung leader (Al-Uswah): ...
         - Dukungan & unblocking manajer (Fa-a'inuhum): ...
     validations:
@@ -68,11 +68,11 @@ body:
   - type: checkboxes
     id: preflight_checks
     attributes:
-      label: "Checklist Pre-Flight NSIM (Protokol P01–P09)"
+      label: "Checklist Pre-Flight WAQF Framework (Protokol P01–P09)"
       options:
-        - label: "Seluruh PIC lulus uji Al-Quwwah (kompeten) & Al-Amanah (Protokol Abu Dzar)."
+        - label: "Seluruh PIC lulus uji Al-Quwwah (kompeten) & Al-Amanah (Protokol P06 · Abu Dzar)."
           required: true
-        - label: "Rencana sudah dibahas di Syura dan disepakati tim pelaksana sebagai 'Azam bersama (Protokol Badar)."
+        - label: "Rencana sudah dibahas di Syura dan disepakati tim pelaksana sebagai 'Azam bersama (Protokol P05 · Badar)."
           required: true
         - label: "Jadwal inspeksi tengah jalan (Mid-Cycle Hisbah) sudah ditetapkan."
           required: true

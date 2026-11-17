@@ -1,6 +1,6 @@
 ---
-type: nsim-project
-standard: open-nsim-v1.0
+type: waqf-project
+standard: waqf-framework-v1.1
 pillar: P1-Self-Leadership
 code: "{{PROJECT_CODE}}"
 title: "{{TITLE}}"
@@ -14,9 +14,10 @@ saft_focus:
 cycle_start: "{{DATE_START}}"
 cycle_end: "{{DATE_END}}"
 hisbah_date: "{{HISBAH_DATE}}"
-status: draft # draft | azam-ratified | execution | hisbah | closed-islah
+status: draft # draft | azam-ratified | qiyam-execution | hisbah | closed-islah
 integrity_audit: pending # pending | clean | finding
 tags:
+  - waqf-framework
   - nsim
   - prophetic-management
   - projects
@@ -24,11 +25,11 @@ tags:
 
 # {{PROJECT_CODE}} — {{TITLE}}
 
-> **Arsitektur NSIM:** *Best Leader (SAFT Character)* × *Best Manager (NSIM Cycle)*
+> **Arsitektur WAQF Framework:** *Best Leader (SAFT Character)* × *Best Manager (WAQF Cycle: Wijhah – 'Azam – Qiyam – Fahs · NSIM)*
 
 ---
 
-## 1. NIYYAH & RU'YAH (*Goal · Shiddiq & Fathanah*)
+## W — WIJHAH (*Niyyah & Ru'yah · Goal · Shiddiq & Fathanah*)
 - **Al-Niyyah (Vertical Why):** 
 - **Maslahah Nyata (Horizontal Impact):** 
 - **Al-Bisyarah (Guiding Vision):** 
@@ -37,7 +38,7 @@ tags:
   2. 
   3. 
 
-## 2. SYURA & TADBIR (*Plan · Fathanah & Amanah*)
+## A — 'AZAM (*Syura & Tadbir · Plan · Fathanah & Amanah*)
 ### Pagar *Tauqifi* (Non-Negotiable)
 - Syariat / Akad Muamalah / Regulasi / Keamanan Data:
   - 
@@ -53,7 +54,7 @@ tags:
 
 - **Tanggal Kesepakatan *'Azam* Tim (*Protokol Badar*):** `{{AZAM_DATE}}`
 
-## 3. ITQAN & I'ANAH (*Execution · Tabligh & Uswah*)
+## Q — QIYAM (*Itqan & I'anah · Execution · Tabligh & Uswah*)
 - **Definition of Done (*Al-Itqan*):**
   - [ ] 
 - **Titik Kehadiran Langsung Leader (*Al-Uswah Al-Hasanah*):**
@@ -63,10 +64,10 @@ tags:
   - Hambatan yang diurai manajer: 
   - Tanggal pembayaran hak tim/mitra tepat waktu: 
 
-## 4. MUHASABAH & HISBAH (*Review · Shiddiq & Amanah*)
+## F — FAHS (*Muhasabah & Hisbah · Review · Shiddiq & Amanah*)
 - **Catatan Inspeksi Tengah Jalan (*Hisbah / Taftish al-Suq*):**
   - 
-- **Daftar Bukti Fisik (*At-Tahqiq* — Wajib Lampirkan Artefak):**
+- **Daftar Bukti Fisik (*Fahs / At-Tahqiq* — Wajib Lampirkan Artefak):**
   - 
 - **Audit Ganda (*Ibnul Lutbiyyah*):**
   - Capaian *Al-Miqdar*: 
