@@ -106,8 +106,8 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
 ### Discipline 3 (Q): QIYAM — *Itqan, Uswah & I'anah (Upright Execution, Frontline Modeling & Managerial Coaching)*
 *Qur'anic Anchor:* *"Stand firmly (qawwamin) in justice"* (QS. An-Nisa [4]: 135) & *"Hold fast to the Scripture with strength (quwwah)"* (QS. Maryam [19]: 12). · *Governing Traits:* **Tabligh & Uswah**.
 
-7. **Protocol *Al-Itqan* (`P07` — DoD, *Goldilocks +4%* & `>= 80%` *Signal-to-Noise*)**
-    - **`v1.3` Mandate:** Pair every Definition of Done with a controlled **Goldilocks `+4%`** baseline stretch and defend a **`>= 80%` Signal-to-Noise** deep-work floor.
+7. **Protocol *Al-Itqan* (`P07` — DoD, *Goldilocks +4%*, *Protected Maker Timeblock* & `>= 80%` *Signal-to-Noise*)**
+    - **`v1.3` Mandate:** Pair every Definition of Done with a controlled **Goldilocks `+4%`** baseline stretch, defend a daily **`3–4h` Protected Maker Timeblock** (*Zero-Meeting Deep Work Window*, async-first except `P0` incidents, prohibiting 5-min team micromanagement), and sustain a **`>= 80%` Signal-to-Noise** floor.
    - **Primary Source:** *"Indeed Allah loves that when one of you performs a deed, he does it with Itqan (precision and excellence)"* (HR. Abu Ya'la & Al-Baihaqi).
    - **Mandatory Rule:** Every deliverable carries an explicit **Definition of Done (DoD)** prior to execution. "Good enough / just tick the box" work is prohibited.
 8. **Protocol *Al-Uswah Al-Hasanah* (`P08` — Frontline Bottleneck Co-location)**
@@ -147,7 +147,7 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
 ## 6. Organizational Cadence
 
 The WAQF Framework replaces ad-hoc status calls with four rhythmic checkpoints:
-1. **Daily (*10–15 min*):** *Briefing Wijhah & Qiyam* — renew intention, lock **Single-Fire** focus & `>= 80%` *Signal-to-Noise*, surface blockers requiring *Fa-a'inuhum*.
+1. **Daily (*10–15 min*):** *Briefing Wijhah & Qiyam* — renew intention, lock **Single-Fire** focus, protect a **`3–4h` Zero-Meeting Maker Timeblock** (async-first except `P0`) & `>= 80%` *Signal-to-Noise*, surface blockers requiring *Fa-a'inuhum*.
 2. **Weekly (*15–30 min*):** *Majelis Hisbah & I'anah* — inspect physical artifacts (*Fahs / At-Tahqiq*), invite *Ijtihadi* improvements, escalate bottlenecks via the fastest **skip-level** path, and enforce a dignified **walk-out duty** whenever attendance adds or receives zero value.
 3. **Monthly (*60 min*):** *Audit Fahs / Muhasabah & Tadbir* — dual quantitative + anti-gratification audit (*Ibnul Lutbiyyah*), *Ta'ridh* process fixes, recalibrate *Al-Qawiyy Al-Amin* roles.
 4. **Quarterly (*90–120 min*):** *Syura Wijhah & Islah* — evaluate real-world *Maslahah*, redesign systems (*Islah*), and ratify next quarter's [1-Page WAQF Canvas](../templates/1-page-waqf-canvas.en.md).

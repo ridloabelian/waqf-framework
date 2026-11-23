@@ -57,7 +57,7 @@ tags:
 - **Tanggal Kesepakatan *'Azam* Tim (*Protokol Badar*):** `{{AZAM_DATE}}`
 
 ## Q — QIYAM (*Itqan, Uswah & I'anah · Tabligh & Uswah*)
-- **Definition of Done, Goldilocks `+4%` & Signal `≥ 80%` (*Al-Itqan · P07*):**
+- **Definition of Done, Goldilocks `+4%`, Protected Maker Timeblock (`3–4j` Zero-Meeting) & Signal `≥ 80%` (*Al-Itqan · P07*):**
   - [ ] 
 - **Ko-lokalisasi Langsung Leader di Bottleneck Kritis (*Al-Uswah · P08*):**
   - 

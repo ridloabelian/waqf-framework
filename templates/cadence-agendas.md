@@ -5,6 +5,13 @@ Dokumen ini memuat panduan fasilitasi rapat 4 lapis agar siklus **WAQF** berjala
 
 ---
 
+## 0. Aturan Pelindung Harian — *Protected Maker Timeblock & Async-First* (`Protokol P07`)
+- **Jendela Bebas Rapat (*Zero-Meeting Deep Work Window*):** Setiap pembuat (*maker/engineer/operator*) wajib dilindungi minimal **1 blok fokus utuh `3–4 jam/hari`** bebas rapat rutin & interupsi sinkron (contoh default: `08:00–12:00 WIB`, atau `08:00–11:30` pada hari Jumat sebelum *Shalat Jumat*).
+- **Komunikasi Default Asinkron:** Selama jendela ini, seluruh koordinasi berjalan lewat teks asinkron (kecuali insiden darurat `P0`).
+- **Larangan *Micromanagement* Slot 5 Menit:** *5-minute micro-timeblocking* hanya dipakai sebagai alat bantu triase kalender eksekutif, **dilarang** dipaksakan ke jadwal harian tim pelaksana karena merusak otonomi DRI (`P06`) dan *Goldilocks Flow* (`P07`).
+
+---
+
 ## 1. Harian (Pagi) — *Briefing Wijhah & Qiyam*
 - **Durasi:** `10–15 Menit` (Tepat waktu, berdiri atau singkat)
 - **Fokus WAQF:** **W** (`Niyyah & Single-Fire`) + **Q** (`Itqan & I'anah`)

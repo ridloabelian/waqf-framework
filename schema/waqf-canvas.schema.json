@@ -224,6 +224,10 @@
           "type": "string",
           "description": "Protocol P07: Controlled +4% Goldilocks difficulty stretch above proven baseline."
         },
+        "protected_maker_timeblock": {
+          "type": "string",
+          "description": "Protocol P07: Daily 3-4h Zero-Meeting Deep Work Window (async-first except P0 incidents) defending >=80% Signal without 5-minute micromanagement."
+        },
         "uswah_touchpoints": {
           "type": "array",
           "minItems": 1,
