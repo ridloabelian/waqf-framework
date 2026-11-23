@@ -40,23 +40,23 @@ body:
   - type: textarea
     id: hisbah_integrity
     attributes:
-      label: "F.2 Audit Kepatuhan Tauqifi & Anti-Gratifikasi (Protokol P10 & P12 · Hisbah & Ibnul Lutbiyyah)"
-      description: "Cek kehalalan proses, kesesuaian akad, pemisahan aset pribadi vs. lembaga, dan nol komisi/hadiah tersembunyi."
+      label: "F.2 Audit Tauqifi, Anti-Gratifikasi & Umpan Balik Negatif Eksternal (P10 & P12)"
+      description: "Cek kehalalan proses, kesesuaian akad, pemisahan aset, nol komisi tersembunyi, plus hasil Perburuan Umpan Balik Negatif Eksternal."
       placeholder: |
         - Status Pagar Tauqifi & Akad: BERSIH / TEMUAN
         - Status Pemisahan Aset & Bebas Gratifikasi: BERSIH / TEMUAN
-        - Catatan rinci: ...
+        - Umpan Balik Negatif Eksternal (penerima manfaat / klien / wakif pasif): ...
     validations:
       required: true
 
   - type: textarea
     id: islah_plan
     attributes:
-      label: "F.3 Perbaikan Sistemik / SOP (Protokol P13 · Ta'ridh & Bani Makhzum)"
-      description: "Apa pola masalah yang ditemukan (tanpa mempermalukan pribadi), perbaikan SOP untuk siklus depan, dan tindak lanjut keadilan?"
+      label: "F.3 Perbaikan Sistemik / SOP & Audit Semantic Tree (Protokol P13 · Ta'ridh & Bani Makhzum)"
+      description: "Apa pola masalah yang ditemukan (tanpa mempermalukan pribadi), perbaikan SOP untuk siklus depan, serta hasil Semantic Tree 5-Hour Trunk jika berekspansi?"
       placeholder: |
         - Pola akar masalah sistemik: ...
-        - Update SOP / Checklist (Islah): ...
+        - Update SOP / Checklist (Islah) & Semantic Tree (jika ekspansi): ...
     validations:
       required: true
 

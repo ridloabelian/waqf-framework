@@ -1,7 +1,7 @@
 # WAQF Framework — The Prophetic Management Cycle (*Wijhah · 'Azam · Qiyam · Fahs*)
 
 [![License: CC BY-SA 4.0 / MIT](https://img.shields.io/badge/License-CC--BY--SA--4.0%20%2F%20MIT-1A365D.svg)](./LICENSE)
-[![Standard Version](https://img.shields.io/badge/Standard-v1.2.0-2B6CB0.svg)](./CITATION.cff)
+[![Standard Version](https://img.shields.io/badge/Standard-v1.3.0-2B6CB0.svg)](./CITATION.cff)
 [![Prophetic Pillar](https://img.shields.io/badge/Pillar-P1%20Self%20%26%20Org%20Leadership-C19F65.svg)](https://ridlo.id/waqf-framework)
 [![Second Brain](https://img.shields.io/badge/Knowledge%20Graph-ZK--035-298D6B.svg)](https://ridlo.id/notes/waqf-prophetic-management-cycle-wijhah-azam-qiyam-fahs)
 
@@ -27,6 +27,15 @@ Dalam arsitektur kepemimpinan ekosistem:
 Nama **WAQF** dipilih karena dua lapis makna yang saling mengunci:
 - **Makna Akronim Operasional:** **W**ijhah – **'A**zam – **Q**iyam – **F**ahs *(siklus manajemen otentik Qur'ani-Nabawi)*.
 - **Makna Filosofis Kata *Waqf*:** Hakikat wakaf (*habsul-ashl wa tasbilus-tsamarah*) adalah **menjaga pokok amanah agar tidak rusak** (integritas *Tauqifi* & aset lembaga) sekaligus **mengalirkan manfaat produktif secara berkelanjutan** (*Maslahah* & *Itqan*). Manajemen profetik memastikan organisasi bertumbuh tinggi tanpa pernah merusak pokok integritasnya.
+
+### 3. Pembaruan Resmi **`WAQF-v1.3`** *(Kecepatan Ruang Ijtihadi × Pagar La Yuqallad)*
+Dirilis 24 November 2026 dengan menyuntikkan **6 mesin kecepatan eksekusi berbasis prinsip pertama** ke dalam ruang *Ijtihadi*, sambil mengunci pagar kemanusiaan **La Yuqallad** (`≥6 jam` tidur malam, haram kerja ekstrem `100–120 jam/minggu`, nol penghinaan tim, pembayaran hak `H+0`):
+1. **Audit *Idiot Index* RAB & *Single-Fire Surge* (`P03`):** Hitung rasio `Harga Vendor / Biaya Komponen Fisik Dasar` sebelum pencairan capex dan pusatkan `≥80%` energi tim pada **1 bottleneck utama** per siklus (*Hell Yes or Freeze*).
+2. **Kecepatan 70% Data & Pangkas 20–30% Birokrasi (`P04–P05`):** Kepastian `100%` mutlak dikunci di *Tauqifi* (*La Yufti*); taktik *Ijtihadi* bergerak saat data `≥70%` via *Syura* ber-timebox (`P1 < 30m`, `P0 < 2j`) setelah menghapus `≥20–30%` langkah birokrasi sebelum otomasi ERP/AI, disertai **Kill / Rollback Trigger**.
+3. ***1-Question DRI Truth Test* (`P06`):** Uji *Al-Quwwah* calon DRI dengan membedah masalah tersulit yang ia pecahkan sendiri sampai ke akar kegagalan mikroskopisnya.
+4. ***Goldilocks +4%*, `≥80%` *Signal*, Ko-lokalisasi & *Skip-Level* (`P07–P09`):** Target terukur dengan peregangan `+4%`, jaminan blok fokus *Signal* `≥80%`, pimpinan berkantor langsung di *bottleneck* lapangan, dan eskalasi *skip-level* tercepat di atas pagar *La Yuqallad*.
+5. ***Majelis Mingguan 15–30 Menit* & Kewajiban *Walk-Out* (Cadence):** Rapat mingguan diperketat menjadi `15–30 menit` dengan kewajiban meninggalkan rapat secara bermartabat bila tidak memberi/menerima nilai.
+6. **Perburuan Umpan Balik Negatif & *Semantic Tree* Pra-Ekspansi (`P10, P13`):** Pancing keluhan jujur penerima manfaat/klien/wakif pasif dengan pertanyaan pematah bias, dan wajib kuasai *Semantic Tree (`5-Hour Trunk`)* + interogasi pakar lapangan sebelum berekspansi ke lini usaha wakaf baru.
 
 ---
 
@@ -67,10 +76,10 @@ Repositori **`waqf-framework`** ini:
 
 | Huruf & Disiplin WAQF | Protokol Operasional (`P01–P13`) | Landasan Otentik |
 | :--- | :--- | :--- |
-| **W — Wijhah**<br>*(Niyyah, Ru'yah & Al-Miqdar)* | **P01 · *Innamal A'malu bin-Niyyat*** *(Pemurnian Motif & Maslahah)*<br>**P02 · *Al-Bisyarah*** *(Pemancangan Visi Menang Penuntun)*<br>**P03 · *Al-Miqdar*** *(1–3 Target Kuantitatif, Tenggat, & Pagu Risiko)* | QS. Al-Baqarah [2]: 148; HR. Al-Bukhari & Muslim; Sirah Khandaq & Pasar Madinah; Pengelolaan Fadak, Khaibar, & 47 Pasal *Shahifah al-Madinah* |
-| **A — 'Azam**<br>*(Syura, Tadbir & Tafwidh)* | **P04 · *Hubab bin Mundzir*** *(Pemisahan Mutlak Domain Tauqifi vs. Ijtihadi)*<br>**P05 · *Badar*** *(Mengubah Kepatuhan Menjadi Komitmen `'Azam` via Syura)*<br>**P06 · *Abu Dzar Al-Ghifari*** *(Fit & Proper Test `Al-Qawiyy Al-Amin` + Psychological Safety)* | QS. Ali 'Imran [3]: 159; Sirah Badar; HR. Al-Bukhari no. 59; HR. Muslim no. 1825; QS. Al-Qashash [28]: 26 |
-| **Q — Qiyam**<br>*(Itqan, Uswah & I'anah)* | **P07 · *Al-Itqan*** *(Definition of Done Presisi & Tuntas)*<br>**P08 · *Al-Uswah Al-Hasanah*** *(Pemimpin Hadir Langsung di Garis Depan)*<br>**P09 · *Fa-a'inuhum*** *(Kewajiban Unblocking Manajer, Nol Kekerasan Verbal, Hak Tepat Waktu)* | QS. An-Nisa [4]: 135; QS. Saba' [34]: 46; QS. Maryam [19]: 12; HR. Abu Ya'la & Al-Baihaqi; QS. Al-Ahzab [33]: 21; Muttafaqun 'Alaih (Abu Dzar r.a.); Kesaksian Anas bin Malik r.a.; Hadis Qudsi Buruh |
-| **F — Fahs**<br>*(Hisbah, At-Tahqiq & Muhasabah)* | **P10 · *Hisbah / Taftish al-Suq*** *(Inspeksi Kualitas & Etika Tengah Jalan)*<br>**P11 · *Dua Pemuda Badar / At-Tahqiq*** *(Audit Wajib Berbasis Bukti Fisik)*<br>**P12 · *Ibnul Lutbiyyah*** *(Audit Capaian + Audit Anti-Gratifikasi & Pemisahan Aset)*<br>**P13 · *Ta'ridh & Bani Makhzum*** *(Koreksi Bermartabat untuk Islah, Nol Impunitas Elit)* | QS. Al-Anfal [8]: 29; Sirah Pasar Madinah; Sirah Badar; HR. Al-Bukhari & Muslim *(Falamma Qadima Hasabahu, Ta'ridh, & Bani Makhzum)* |
+| **W — Wijhah**<br>*(Niyyah, Ru'yah & Al-Miqdar)* | **P01 · *Innamal A'malu bin-Niyyat*** *(Pemurnian Motif & Maslahah)*<br>**P02 · *Al-Bisyarah*** *(Pemancangan Visi Menang Penuntun)*<br>**P03 · *Al-Miqdar*** *(1–3 Target, Pagu Risiko, **Idiot Index RAB**, & **Single-Fire** ≥80% Fokus)* | QS. Al-Baqarah [2]: 148; HR. Al-Bukhari & Muslim; Sirah Khandaq & Pasar Madinah; Pengelolaan Fadak, Khaibar, & 47 Pasal *Shahifah al-Madinah* |
+| **A — 'Azam**<br>*(Syura, Tadbir & Tafwidh)* | **P04 · *Hubab bin Mundzir*** *(100% Tauqifi vs. 70% Ijtihadi & Pangkas ≥20–30% Birokrasi)*<br>**P05 · *Badar*** *(Syura Ber-timebox `P1 < 30m / P0 < 2j`, `'Azam`, & **Kill Trigger**)*<br>**P06 · *Abu Dzar Al-Ghifari*** *(Fit & Proper Test **1-Question DRI Truth Test** + Amanah)* | QS. Ali 'Imran [3]: 159; Sirah Badar; HR. Al-Bukhari no. 59; HR. Muslim no. 1825; QS. Al-Qashash [28]: 26 |
+| **Q — Qiyam**<br>*(Itqan, Uswah & I'anah)* | **P07 · *Al-Itqan*** *(Definition of Done, **Goldilocks +4%**, & **≥80% Signal-to-Noise**)*<br>**P08 · *Al-Uswah Al-Hasanah*** *(Ko-lokalisasi Langsung Pemimpin di Bottleneck Kritis)*<br>**P09 · *Fa-a'inuhum*** *(Unblocking **Skip-Level**, Pagar **La Yuqallad**, & Hak Tepat Waktu H+0)* | QS. An-Nisa [4]: 135; QS. Saba' [34]: 46; QS. Maryam [19]: 12; HR. Abu Ya'la & Al-Baihaqi; QS. Al-Ahzab [33]: 21; Muttafaqun 'Alaih (Abu Dzar r.a.); Kesaksian Anas bin Malik r.a.; Hadis Qudsi Buruh |
+| **F — Fahs**<br>*(Hisbah, At-Tahqiq & Muhasabah)* | **P10 · *Hisbah / Taftish al-Suq*** *(Inspeksi Tengah Jalan & **Perburuan Umpan Balik Negatif Eksternal**)*<br>**P11 · *Dua Pemuda Badar / At-Tahqiq*** *(Audit Wajib Berbasis Bukti Fisik)*<br>**P12 · *Ibnul Lutbiyyah*** *(Audit Capaian + Audit Anti-Gratifikasi & Pemisahan Aset)*<br>**P13 · *Ta'ridh & Bani Makhzum*** *(Koreksi Bermartabat, Audit **Semantic Tree** Pra-Ekspansi, Nol Impunitas)* | QS. Al-Anfal [8]: 29; Sirah Pasar Madinah; Sirah Badar; HR. Al-Bukhari & Muslim *(Falamma Qadima Hasabahu, Ta'ridh, & Bani Makhzum)* |
 
 ---
 

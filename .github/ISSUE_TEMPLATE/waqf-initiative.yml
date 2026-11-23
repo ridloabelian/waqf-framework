@@ -1,17 +1,17 @@
-name: "WAQF Initiative (Wijhah · 'Azam · Qiyam)"
-description: "Mulai inisiatif, fitur besar, atau program kuartalan baru menggunakan pagar 13 Protokol WAQF Framework."
+name: "WAQF Initiative (v1.3 · Wijhah · 'Azam · Qiyam)"
+description: "Mulai inisiatif, fitur besar, atau program kuartalan baru menggunakan pagar 13 Protokol WAQF-v1.3 + 6 mekanisme kecepatan Ijtihadi."
 title: "[WAQF] <Nama Inisiatif>"
 labels: ["waqf-initiative", "stage:azam-syura"]
 body:
   - type: markdown
     attributes:
       value: |
-        Gunakan form ini untuk mengunci **Disiplin W — Wijhah (`Niyyah, Ru'yah & Al-Miqdar`)**, **Disiplin A — 'Azam (`Syura, Tadbir & Tafwidh`)**, dan kesiapan **Disiplin Q — Qiyam (`Itqan, Uswah & I'anah`)** sebelum eksekusi dimulai.
+        Gunakan form ini untuk mengunci **Disiplin W — Wijhah (`Niyyah, Ru'yah, Al-Miqdar, Idiot Index & Single-Fire`)**, **Disiplin A — 'Azam (`Syura 70% Data, Pangkas Birokrasi & Tafwidh`)**, dan kesiapan **Disiplin Q — Qiyam (`Itqan, Goldilocks +4%, Signal >=80%, Skip-Level & La Yuqallad`)** sebelum eksekusi dimulai.
 
   - type: input
     id: project_code
     attributes:
-      label: "Kode Proyek & Primary DRI (Al-Qawiyy Al-Amin)"
+      label: "Kode Proyek & Primary DRI (Al-Qawiyy Al-Amin — Lulus 1-Question Truth Test)"
       placeholder: "Contoh: PRJ-2026-Q4-01 · DRI: @username"
     validations:
       required: true
@@ -30,25 +30,28 @@ body:
   - type: textarea
     id: wijhah_bisyarah_miqdar
     attributes:
-      label: "W.2 Al-Bisyarah & 1–3 Target Al-Miqdar (Protokol P02 & P03)"
-      description: "Visi menang + target kuantitatif, tanggal selesai pasti, dan batas modal/risiko maksimal."
+      label: "W.2 Al-Bisyarah, Al-Miqdar, Idiot Index & Single-Fire (Protokol P02 & P03 v1.3)"
+      description: "Visi menang + 1–3 target kuantitatif + batas modal/risiko + Idiot Index RAB + fokus Single-Fire (≥80% energi di 1 bottleneck)."
       placeholder: |
         - Al-Bisyarah (Guiding Vision): ...
         1. Target Utama + Deadline: ...
-        2. Target Kualitas + Deadline: ...
-        3. Pagu Risiko / Anggaran Maksimal: ...
+        2. Pagu Risiko / Anggaran Maksimal: ...
+        - Idiot Index RAB (Harga Vendor / Biaya Komponen Fisik Dasar): ...
+        - Single-Fire Bottleneck (sisanya Freeze): ...
     validations:
       required: true
 
   - type: textarea
     id: azam_tauqifi_ijtihadi
     attributes:
-      label: "A.1 Pagar Tauqifi vs. Ruang Ijtihadi (Protokol P04 · Hubab bin Mundzir)"
-      description: "Pisahkan prinsip harga mati (syariat, akad, keamanan data, hukum) dari taktik adaptif yang terbuka untuk kritik tim."
+      label: "A.1 Pagar 100% Tauqifi vs. 70% Ijtihadi & Pangkas Birokrasi (Protokol P04–P05)"
+      description: "Pisahkan prinsip harga mati (100% Tauqifi) dari taktik cepat 70% data; hapus ≥20–30% langkah birokrasi pra-otomasi dan cantumkan Kill Trigger."
       placeholder: |
-        **Domain Tauqifi (Tidak Boleh Ditawar):**
+        **Domain 100% Tauqifi (Harga Mati):**
         - ...
-        **Domain Ijtihadi (Terbuka Kritik & Koreksi Tim):**
+        **Langkah Birokrasi Dihapus Pre-Otomasi (≥20–30%):**
+        - ...
+        **Domain Ijtihadi (≥70% Data · Timebox Syura P1 < 30m / P0 < 2j) & Kill Trigger:**
         - ...
     validations:
       required: true
@@ -56,23 +59,23 @@ body:
   - type: textarea
     id: qiyam_itqan_ianah
     attributes:
-      label: "Q.1 Definition of Done (Itqan) & Dukungan Manajer (Fa-a'inuhum) (P07–P09)"
-      description: "Standar tuntas presisi + kehadiran leader di garis depan + sumber daya/unblocking manajer + tanggal komitmen hak mitra."
+      label: "Q.1 DoD (Goldilocks +4% & Signal >=80%), Skip-Level & Pagar La Yuqallad (P07–P09)"
+      description: "Standar tuntas + ko-lokalisasi leader di bottleneck + jalur skip-level tercepat + jaminan tidur >=6j / nol overwork 120j / bayar hak H+0."
       placeholder: |
-        - Definition of Done (Al-Itqan): ...
-        - Titik hadir langsung leader (Al-Uswah): ...
-        - Dukungan & unblocking manajer (Fa-a'inuhum): ...
+        - Definition of Done (Al-Itqan + Goldilocks +4% + Signal >= 80%): ...
+        - Ko-lokalisasi leader di bottleneck kritis (Al-Uswah): ...
+        - Unblocking skip-level & komitmen bayar H+0 (Fa-a'inuhum + La Yuqallad): ...
     validations:
       required: true
 
   - type: checkboxes
     id: preflight_checks
     attributes:
-      label: "Checklist Pre-Flight WAQF Framework (Protokol P01–P09)"
+      label: "Checklist Pre-Flight WAQF-v1.3 (Protokol P01–P09)"
       options:
-        - label: "Seluruh PIC lulus uji Al-Quwwah (kompeten) & Al-Amanah (Protokol P06 · Abu Dzar)."
+        - label: "DRI lolos 1-Question Truth Test (akar kegagalan mikroskopis) & uji Al-Amanah (Protokol P06 · Abu Dzar)."
           required: true
-        - label: "Rencana sudah dibahas di Syura dan disepakati tim pelaksana sebagai 'Azam bersama (Protokol P05 · Badar)."
+        - label: "Syura ber-timebox (P1 < 30m / P0 < 2j) di ≥70% data melahirkan 'Azam + Kill Trigger objektif (Protokol P05 · Badar)."
           required: true
-        - label: "Jadwal inspeksi tengah jalan (Mid-Cycle Hisbah) sudah ditetapkan."
+        - label: "Pagar La Yuqallad (tidur ≥6j, nol kerja 100–120j, nol penghinaan) & jadwal Mid-Cycle Hisbah dikunci."
           required: true

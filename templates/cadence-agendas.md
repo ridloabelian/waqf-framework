@@ -1,31 +1,31 @@
-# Agenda & Ritme Rapat Organisasi Berbasis **WAQF Framework**
+# Agenda & Ritme Rapat Organisasi Berbasis **WAQF Framework (`v1.3`)**
 **(*Wijhah – 'Azam – Qiyam – Fahs* × *SAFT*)**
 
-Dokumen ini memuat panduan fasilitasi rapat 4 lapis agar siklus **WAQF** berjalan sebagai kebiasaan harian tim, bukan sekadar dokumen arsip.
+Dokumen ini memuat panduan fasilitasi rapat 4 lapis agar siklus **WAQF** berjalan sebagai kebiasaan harian tim dengan kecepatan ruang *Ijtihadi* dan pagar *La Yuqallad*, bukan sekadar dokumen arsip.
 
 ---
 
 ## 1. Harian (Pagi) — *Briefing Wijhah & Qiyam*
 - **Durasi:** `10–15 Menit` (Tepat waktu, berdiri atau singkat)
-- **Fokus WAQF:** **W** (`Niyyah`) + **Q** (`Itqan & I'anah`)
+- **Fokus WAQF:** **W** (`Niyyah & Single-Fire`) + **Q** (`Itqan & I'anah`)
 
 ### Susunan Agenda
 1. **Pembukaan *Innamal A'malu bin-Niyyat* (1 menit):** Pengingat singkat kiblat niat (*Wijhah*) & *maslahah* kerja hari ini.
-2. **Komitmen *Qiyam / Itqan* Harian (5–8 menit):** Setiap anggota menyebutkan **maksimal 3 Most Important Tasks (MIT)** beserta standar selesai (*Definition of Done*) hari ini.
-3. **Sinyal *Fa-a'inuhum* (3–5 menit):** Anggota melaporkan *blocker* yang membutuhkan bantuan langsung manajer/DRI (tanpa menyalahkan individu).
+2. **Komitmen *Single-Fire* & *Signal ≥ 80%* (5–8 menit):** Pastikan **1 bottleneck utama** menerima fokus penuh hari ini (*Hell Yes or Freeze*), lindungi minimal 80% blok *Signal* dari rapat/admin *Noise*, dan tetapkan *Definition of Done* (*Goldilocks +4%*).
+3. **Sinyal *Fa-a'inuhum* & *Skip-Level* (3–5 menit):** Anggota langsung mengeskalasi *blocker* melalui jalur **skip-level** tercepat tanpa tertahan hierarki berjenjang.
 4. **Penutup:** Manajer mengunci janji *unblocking* sebelum rapat ditutup.
 
 ---
 
 ## 2. Mingguan (Senin / Jumat) — *Majelis Hisbah & I'anah*
-- **Durasi:** `30–45 Menit`
-- **Fokus WAQF:** **F** (`Hisbah / Fahs`) + **Q** (`I'anah / Coaching`)
+- **Durasi:** `15–30 Menit` (**Strict Timebox** + Kewajiban *Walk-Out* Bermartabat bila kehadiran tidak memberi atau menerima nilai)
+- **Fokus WAQF:** **F** (`Hisbah / Fahs`) + **Q** (`I'anah / Skip-Level Coaching`)
 
 ### Susunan Agenda
-1. **Verifikasi Bukti Fisik *Fahs / At-Tahqiq* (15 menit):** Tinjau progres mingguan **hanya berbasis artefak nyata** (log produksi, mutasi, link PR, dokumen sah, atau foto lapangan).
-2. **Inspeksi Kepatuhan & Kualitas *Hisbah* (10 menit):** Cek apakah pagar *Tauqifi* (akad, keamanan, hak pengguna/mitra, etika) tetap 100% terjaga di bawah tekanan target.
-3. **Ruang Koreksi *Ijtihadi* — Protokol *Hubab bin Mundzir* (10 menit):** Buka ruang bagi tim lapangan untuk mengkritisi atau menyempurnakan taktik tanpa ego pimpinan.
-4. **Aksi *Fa-a'inuhum* & Kompensasi (5 menit):** Pastikan seluruh hambatan diurai dan kewajiban pembayaran mitra/vendor minggu tersebut tidak tertunda (*anti-mumathalah*).
+1. **Verifikasi Bukti Fisik *Fahs / At-Tahqiq* (8 menit):** Tinjau progres *Single-Fire* mingguan **hanya berbasis artefak nyata** (log produksi, mutasi, link PR, dokumen sah, atau foto lapangan).
+2. **Inspeksi *Hisbah* & Umpan Balik Negatif Eksternal (7 menit):** Cek apakah pagar *Tauqifi* (akad, keamanan, hak pengguna/mitra, etika) tetap 100% terjaga PLUS bacakan ringkasan keluhan jujur penerima manfaat/klien/wakif pasif hasil pertanyaan pematah bias pujian.
+3. **Ruang Koreksi *Ijtihadi* — *70% Data & Pangkas Birokrasi* (7 menit):** Pangkas minimal 20–30% langkah prosedural yang tidak perlu sebelum otomasi dan evaluasi apakah *Kill / Rollback Trigger* tersentuh.
+4. **Aksi *Fa-a'inuhum* & Pagar *La Yuqallad* (5 menit):** Jalankan unblocking *skip-level*, pastikan jaminan tidur ≥ 6 jam (nol budaya kerja ekstrem 100–120 jam), dan kunci pembayaran hak/vendor H+0 (*anti-mumathalah*).
 
 ---
 

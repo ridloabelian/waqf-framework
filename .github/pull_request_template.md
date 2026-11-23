@@ -6,8 +6,8 @@
 - [ ] Perubahan ini selaras dengan *Maslahah* utama proyek (tanpa *mudarat* / *dark pattern*).
 - [ ] Tidak melanggar **Domain *Tauqifi*** (keamanan rahasia/API key, privasi data, akad fikih, kepatuhan legal).
 
-### 2. *Qiyam / Al-Itqan* (Standar Kualitas & Tuntas)
-- [ ] Kode/dokumen bersih, tidak meninggalkan *TODO* liar atau regresi yang sengaja diabaikan.
+### 2. *Qiyam / Al-Itqan* & Pangkas Birokrasi (`P04 & P07 · WAQF-v1.3`)
+- [ ] Kode/dokumen bersih (*Goldilocks +4%* kualitas tanpa regresi atau *TODO* liar), dan kompleksitas/langkah tak perlu telah dihapus sebelum menambah abstraksi (**Protokol P04**).
 - [ ] Ruang diskusi teknis (*Domain Ijtihadi*) terbuka bagi masukan *reviewer* (**Protokol P04 · Hubab bin Mundzir**).
 
 ### 3. *Fahs / At-Tahqiq* (Bukti Fisik Terverifikasi — Bukan Klaim Lisan)

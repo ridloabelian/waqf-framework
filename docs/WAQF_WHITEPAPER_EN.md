@@ -1,7 +1,7 @@
 # WAQF Framework Whitepaper: The 2D Prophetic Management Cycle (*Wijhah – 'Azam – Qiyam – Fahs* × *SAFT*)
 
 - **Document Code:** `WAQF-SPEC-001`
-- **Version:** `1.2.0` (`2026-11-17`)
+- **Version:** `1.3.0` (`2026-11-24`)
 - **Author:** Ridlo Abelian ([ridlo.id](https://ridlo.id))
 - **Repository:** https://github.com/ridloabelian/waqf-framework
 - **Interactive Hub:** https://ridlo.id/waqf-framework
@@ -76,7 +76,8 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
 2. **Protocol *Al-Bisyarah* (`P02` — Strategic Horizon Anchoring)**
    - **Primary Source (Sirah — Battle of Khandaq & Market of Madinah):** While digging defensive trenches under siege, the Prophet ﷺ proclaimed *Al-Bisyarah*—concrete strategic visions of future openings in Sham, Persia, and Yemen—and built a rent-free Madinah market.
    - **Mandatory Rule:** Every initiative defines a clear medium/long-term winning state (**Guiding Vision**) to sustain resilience through short-term friction.
-3. **Protocol *Al-Miqdar* (`P03` — Bounded Quantitative Targets & Constitutional Clarity)**
+3. **Protocol *Al-Miqdar* (`P03` — Bounded Targets, *Idiot Index* & *Single-Fire*)**
+    - **`v1.3` Mandate:** Audit RAB/capex quotes with the *Idiot Index* (*Vendor Price / Raw Component Cost*) prior to disbursement, and concentrate `>= 80%` energy on **1 active bottleneck** per cycle (*Single-Fire Surge*: *Hell Yes or Freeze*).
    - **Primary Source (Sirah — Fadak, Khaybar & *Shahifah al-Madinah*):** Productive assets were measured accurately, and governance ran on 47 explicit clauses in the Constitution of Madinah.
    - **Mandatory Rule:** Translate *Wijhah* into **1–3 measurable *Al-Miqdar* indicators**: numerical outcome target, fixed deadline, and hard maximum risk/capital ceiling.
 
@@ -85,15 +86,18 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
 ### Discipline 2 (A): 'AZAM — *Syura, Tadbir & Tafwidh (Participatory Resolve, Tactical Separation & Merit Delegation)*
 *Qur'anic Anchor:* *"Consult them in the matter; and when you have decided ('azam), then rely upon Allah"* (QS. Ali 'Imran [3]: 159). · *Governing Traits:* **Fathanah & Amanah**.
 
-4. **Protocol *Hubab bin Mundzir* (`P04` — Strict Separation of *Tauqifi* vs. *Ijtihadi*)**
+4. **Protocol *Hubab bin Mundzir* (`P04` — 100% *Tauqifi* vs. 70% *Ijtihadi* & Bureaucracy Deletion)**
+    - **`v1.3` Mandate:** Reserve `100%` rigidity (*La Yufti*) strictly for *Tauqifi* laws/contracts/security. In *Ijtihadi* space, delete `>= 20–30%` redundant procedural steps before building ERP/AI automation, and decide once data reaches `>= 70%`.
    - **Primary Source (Sirah — Battle of Badr):** Hubab bin Mundzir r.a. asked directly whether a camp position was revealed decree (*tauqifi*) or tactical judgment (*ra'yu*). When told it was tactical, Hubab proposed relocating to seize the nearest water well—and the Prophet ﷺ adopted the tactic immediately.
    - **Mandatory Rule:** Every plan separates two explicit lists:
      - **Tauqifi Domain (Non-Negotiable):** Sharia compliance, *fiqh muamalah* contracts, security boundaries, data privacy, and integrity ethics.
      - **Ijtihadi Domain (Open to Challenge):** Go-to-market tactics, technical architecture, tooling, schedules, and field workflows.
-5. **Protocol *Badr* (`P05` — Converting Hierarchy Into Collective *'Azam* via *Syura*)**
+5. **Protocol *Badr* (`P05` — Timeboxed 70% *Syura*, Collective *'Azam* & Kill Triggers)**
+    - **`v1.3` Mandate:** Enforce strict *Syura* timeboxes (`P1 < 30m`, `P0 < 2h`) at `70%` data sufficiency and attach an objective **Kill / Rollback Trigger**.
    - **Primary Source:** Qur'an Ali 'Imran 3:159 & pre-Badr consultation with Muhajirin and Anshar leaders, transforming formal obedience into wholehearted commitment.
    - **Mandatory Rule:** Core implementers must review and co-ratify the tactical plan in *Syura* so top-down instructions convert into shared ***'Azam* (collective resolve)**.
-6. **Protocol *Abu Dzar Al-Ghifari* (`P06` — Fit & Proper Test for *Al-Qawiyy Al-Amin* + Psychological Safety)**
+6. **Protocol *Abu Dzar Al-Ghifari* (`P06` — *Al-Amanah* & *1-Question DRI Truth Test*)**
+    - **`v1.3` Mandate:** Operationalize *Al-Quwwah* via the *1-Question Truth Test*: examine the hardest problem the candidate personally solved down to its microscopic failure modes.
    - **Primary Source:** *"When authority is entrusted to one who is unfit for it, await the Hour"* (Sahih al-Bukhari no. 59); the gentle refusal of governorship to Abu Dzar r.a. (Sahih Muslim no. 1825); and Qur'an Al-Qashash 28:26.
    - **Mandatory Rule:** Never assign a Directly Responsible Individual (**DRI / *Tafwidh***) by personal closeness, seniority, or ritual piety alone. Every PIC must clear **Al-Quwwah** (technical/managerial capability and endurance) and **Al-Amanah** (moral integrity). Handle declines/rotations with dignity and psychological safety.
 
@@ -102,13 +106,16 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
 ### Discipline 3 (Q): QIYAM — *Itqan, Uswah & I'anah (Upright Execution, Frontline Modeling & Managerial Coaching)*
 *Qur'anic Anchor:* *"Stand firmly (qawwamin) in justice"* (QS. An-Nisa [4]: 135) & *"Hold fast to the Scripture with strength (quwwah)"* (QS. Maryam [19]: 12). · *Governing Traits:* **Tabligh & Uswah**.
 
-7. **Protocol *Al-Itqan* (`P07` — Craftsman Precision & Definition of Done)**
+7. **Protocol *Al-Itqan* (`P07` — DoD, *Goldilocks +4%* & `>= 80%` *Signal-to-Noise*)**
+    - **`v1.3` Mandate:** Pair every Definition of Done with a controlled **Goldilocks `+4%`** baseline stretch and defend a **`>= 80%` Signal-to-Noise** deep-work floor.
    - **Primary Source:** *"Indeed Allah loves that when one of you performs a deed, he does it with Itqan (precision and excellence)"* (HR. Abu Ya'la & Al-Baihaqi).
    - **Mandatory Rule:** Every deliverable carries an explicit **Definition of Done (DoD)** prior to execution. "Good enough / just tick the box" work is prohibited.
-8. **Protocol *Al-Uswah Al-Hasanah* (`P08` — Frontline Leadership Presence)**
+8. **Protocol *Al-Uswah Al-Hasanah* (`P08` — Frontline Bottleneck Co-location)**
+    - **`v1.3` Mandate:** Leaders physically co-locate directly at the active bottleneck front line until unblocked.
    - **Primary Source:** Qur'an Al-Ahzab 33:21 & the Prophet ﷺ physically carrying stones for Masjid Nabawi and breaking boulders in the Khandaq trench.
    - **Mandatory Rule:** During critical launches, high-risk migrations, or operational crises, leaders step onto the front line alongside the team rather than commanding from afar.
-9. **Protocol *Fa-a'inuhum* (`P09` — Mandatory Managerial Enablement, Dignity & Timely Compensation)**
+9. **Protocol *Fa-a'inuhum* (`P09` — *Skip-Level* Unblocking, *La Yuqallad* Floor & H+0 Dues)**
+    - **`v1.3` Mandate:** Unblock teams via shortest **skip-level** paths while enforcing the ***La Yuqallad* human guardrail** (`>= 6h` night sleep, prohibition of 100–120h burnout culture, zero humiliation, and H+0 payment).
    - **Primary Source:** *"Do not burden them beyond what overwhelms them; and if you do assign them a heavy work, then assist them!"* (Muttafaqun 'Alaih from Abu Dzar r.a.); Anas bin Malik's 10-year testimony of zero verbal abuse; and Hadith Qudsi (Sahih al-Bukhari) forbidding delayed payment to workers.
    - **Mandatory Rule:**
      - Every ambitious target paired to a team **must include an explicit manager enablement & unblocking plan**.
@@ -122,7 +129,7 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
 
 10. **Protocol *Hisbah / Taftish al-Suq* (`P10` — Mid-Cycle Process & Ethics Inspection)**
     - **Primary Source (Sirah — Madinah Market Supervision):** Acting directly as *Al-Muhtasib*, the Prophet ﷺ inspected market weights and quality mid-transaction, eliminating *riba, gharar, ihtikar, najasy,* and *tadlis*.
-    - **Mandatory Rule:** Quality and ethics reviews cannot wait until quarter-end. Every cycle schedules **mid-cycle process inspections (*Hisbah*)** to detect drift early.
+    - **Mandatory Rule:** Quality and ethics reviews cannot wait until quarter-end. Every cycle schedules **mid-cycle process inspections (*Hisbah*)** paired with **Proactive External Negative Feedback Hunting**—directly asking beneficiaries, clients, and churned *waqifs* what feels broken, slow, or burdensome (bias-breaking reverse questioning).
 11. **Protocol *Two Youths of Badr / At-Tahqiq* (`P11` — Physical Evidence Verification)**
     - **Primary Source (Sirah — Battle of Badr):** When two young Anshar claimed credit for slaying Abu Jahal, the Prophet ﷺ examined physical proof (*"Have you wiped your swords?"*) before ruling.
     - **Mandatory Rule:** Every KPI claim in a Review session **requires verifiable physical or digital artifacts** (bank ledgers, production telemetry, merged commits, signed receipts, or field photos). Unverified verbal claims do not count.
@@ -133,14 +140,14 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
       2. **Integrity & Conflict-of-Interest Audit:** Verification that cashflows, vendor commissions, third-party gifts, and personal-vs-entity boundaries are 100% clean and halal.
 13. **Protocol *Ta'ridh & Bani Makhzum* (`P13` — Dignified Systemic Correction with Zero Elite Impunity)**
     - **Primary Source:** The Prophet's ﷺ pulpit method of *Ta'ridh* (addressing systemic mistakes openly without publicly shaming individuals) alongside the Bani Makhzum ruling (Sahih al-Bukhari & Sahih Muslim: absolute equality before law regardless of noble lineage or leadership status).
-    - **Mandatory Rule:** Operational/technical errors are corrected systemically (**Islah**) while protecting personal dignity, whereas integrity or *amanah* breaches receive equal accountability for staff and executives alike.
+    - **Mandatory Rule:** Operational/technical errors are corrected systemically (**Islah**) while protecting personal dignity, whereas integrity or *amanah* breaches receive equal accountability for staff and executives alike. Before expanding into any new productive waqf business line, leaders must complete a **Semantic Tree (`5-Hour Trunk`) + domain practitioner failure-mode interrogation** so expansion never rests on competence illusion.
 
 ---
 
 ## 6. Organizational Cadence
 
 The WAQF Framework replaces ad-hoc status calls with four rhythmic checkpoints:
-1. **Daily (*10–15 min*):** *Briefing Wijhah & Qiyam* — renew intention, lock top 3 priorities, surface blockers requiring *Fa-a'inuhum*.
-2. **Weekly (*30–45 min*):** *Majelis Hisbah & I'anah* — inspect physical artifacts (*Fahs / At-Tahqiq*), invite *Ijtihadi* improvements, remove bottlenecks.
+1. **Daily (*10–15 min*):** *Briefing Wijhah & Qiyam* — renew intention, lock **Single-Fire** focus & `>= 80%` *Signal-to-Noise*, surface blockers requiring *Fa-a'inuhum*.
+2. **Weekly (*15–30 min*):** *Majelis Hisbah & I'anah* — inspect physical artifacts (*Fahs / At-Tahqiq*), invite *Ijtihadi* improvements, escalate bottlenecks via the fastest **skip-level** path, and enforce a dignified **walk-out duty** whenever attendance adds or receives zero value.
 3. **Monthly (*60 min*):** *Audit Fahs / Muhasabah & Tadbir* — dual quantitative + anti-gratification audit (*Ibnul Lutbiyyah*), *Ta'ridh* process fixes, recalibrate *Al-Qawiyy Al-Amin* roles.
 4. **Quarterly (*90–120 min*):** *Syura Wijhah & Islah* — evaluate real-world *Maslahah*, redesign systems (*Islah*), and ratify next quarter's [1-Page WAQF Canvas](../templates/1-page-waqf-canvas.en.md).

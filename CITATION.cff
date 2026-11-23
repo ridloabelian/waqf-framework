@@ -27,8 +27,8 @@ keywords:
   - saft
   - second-brain
   - agent-skills
-version: "1.2.0"
-date-released: "2026-11-17"
+version: "1.3.0"
+date-released: "2026-11-24"
 license: "CC-BY-SA-4.0 AND MIT"
 repository-code: "https://github.com/ridloabelian/waqf-framework"
 url: "https://ridlo.id/waqf-framework"
