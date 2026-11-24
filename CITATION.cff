@@ -7,14 +7,16 @@ authors:
     given-names: Ridlo
     website: "https://ridlo.id"
 abstract: >-
-  WAQF Framework is an open, value-laden 2D Prophetic Management standard
-  replacing value-neutral Western loops (PDCA, POAC, MBO, OKR, 4DX) by
-  uniting the 4-stage WAQF operational cycle—Wijhah (Niyyah, Ru'yah &
-  Al-Miqdar), 'Azam (Syura, Tadbir & Tafwidh), Qiyam (Itqan, Uswah &
-  I'anah), and Fahs (Hisbah, At-Tahqiq & Muhasabah)—with the 4 Prophetic
+  WAQF Framework (Standard WAQF-v1.3) is an open, value-laden 2D Prophetic
+  Management standard replacing value-neutral Western loops (PDCA, POAC, MBO,
+  OKR, 4DX) by uniting the 4-stage WAQF operational cycle—Wijhah (Niyyah,
+  Ru'yah & Al-Miqdar), 'Azam (Syura, Tadbir & Tafwidh), Qiyam (Itqan, Uswah
+  & I'anah), and Fahs (Hisbah, At-Tahqiq & Muhasabah)—with the 4 Prophetic
   character traits (SAFT: Shiddiq, Amanah, Fathanah, Tabligh), operationalized
-  through 13 Hadith and Sirah protocols, a 1-Page Execution Canvas, GitHub
-  governance templates, JSON Schema, and an AI Agent Skill.
+  through 13 Hadith/Sirah protocols, 6 Ijtihadi velocity mechanics under
+  explicit La Yuqallad guardrails, a 1-Page Execution Canvas, audited worked
+  examples, GitHub governance templates, JSON Schema (v1.3.0), a
+  zero-dependency CLI validator, and an AI Agent Skill.
 keywords:
   - waqf-framework
   - waqf

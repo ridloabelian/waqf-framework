@@ -1,0 +1,26 @@
+name: Validate WAQF-v1.3
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate-waqf-v13:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Validate schema, examples, negative boundaries & local drift
+        run: node scripts/waqf-cli.mjs test
+
+      - name: Check live zero-drift parity with ridlo.id/waqf-framework.md
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        run: node scripts/waqf-cli.mjs check-drift --remote

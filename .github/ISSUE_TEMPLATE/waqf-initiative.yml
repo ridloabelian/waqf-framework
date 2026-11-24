@@ -59,10 +59,10 @@ body:
   - type: textarea
     id: qiyam_itqan_ianah
     attributes:
-      label: "Q.1 DoD (Goldilocks +4% & Signal >=80%), Skip-Level & Pagar La Yuqallad (P07–P09)"
-      description: "Standar tuntas + ko-lokalisasi leader di bottleneck + jalur skip-level tercepat + jaminan tidur >=6j / nol overwork 120j / bayar hak H+0."
+      label: "Q.1 DoD (Goldilocks +4%, Protected Maker Timeblock 3-4j & Signal >=80%), Skip-Level & La Yuqallad (P07–P09)"
+      description: "Standar tuntas + Protected Maker Timeblock (3-4j Zero-Meeting / Async-First) + ko-lokalisasi leader di bottleneck + jalur skip-level tercepat + jaminan tidur >=6j / nol overwork 120j / bayar hak H+0."
       placeholder: |
-        - Definition of Done (Al-Itqan + Goldilocks +4% + Signal >= 80%): ...
+        - Definition of Done (Al-Itqan + Goldilocks +4% + Protected Maker Timeblock 3-4j Zero-Meeting / Async-First + Signal >= 80%): ...
         - Ko-lokalisasi leader di bottleneck kritis (Al-Uswah): ...
         - Unblocking skip-level & komitmen bayar H+0 (Fa-a'inuhum + La Yuqallad): ...
     validations:

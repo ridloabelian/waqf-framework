@@ -60,7 +60,7 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
 | :--- | :--- | :--- | :--- | :--- |
 | **W — Wijhah** | *Niyyah, Ru'yah & Al-Miqdar* | *Objectives / Goal Setting* | **Shiddiq** & **Fathanah** | Purify motive (*Ikhlas* & real *Maslahah*), anchor an inspiring strategic horizon (*Al-Bisyarah*), and define honest, bounded metrics (*Al-Miqdar*). |
 | **A — 'Azam** | *Syura, Tadbir & Tafwidh* | *Plan / Organizing* | **Fathanah** & **Amanah** | Formulate plans via *Syura* until ratified into collective *'Azam*, separate non-negotiable *Tauqifi* principles from adaptable *Ijtihadi* tactics, and delegate strictly to *Al-Qawiyy Al-Amin*. |
-| **Q — Qiyam** | *Itqan, Uswah & I'anah* | *Do / Actuating / Key Results* | **Tabligh** & **Uswah** | Execute uprightly with craftsman precision (*Itqan*), lead physically on the front lines during critical phases (*Uswah*), fulfill the manager's duty to assist (*Fa-a'inuhum*), and settle dues punctually. |
+| **Q — Qiyam** | *Itqan, Uswah & I'anah* | *Do / Actuating / Key Results* | **Tabligh** & **Amanah** | Execute uprightly with craftsman precision (*Itqan*), lead physically on the front lines during critical phases (*Uswah*), fulfill the manager's duty to assist (*Fa-a'inuhum*), and settle dues punctually. |
 | **F — Fahs** | *Hisbah, At-Tahqiq & Muhasabah* | *Check–Act / Controlling / Cadence* | **Shiddiq** & **Amanah** | Conduct mid-cycle field inspections (*Hisbah*), verify claims with physical artifacts (*Fahs / At-Tahqiq*), run dual outcome + anti-gratification audits (*Ibnul Lutbiyyah*), and enforce dignified systemic reform (*Islah*) with zero elite impunity. |
 
 ---
@@ -104,11 +104,11 @@ Classic management loops (**PDCA**, **POAC**, **MBO**, **OKR**, **4DX**) are pub
 ---
 
 ### Discipline 3 (Q): QIYAM — *Itqan, Uswah & I'anah (Upright Execution, Frontline Modeling & Managerial Coaching)*
-*Qur'anic Anchor:* *"Stand firmly (qawwamin) in justice"* (QS. An-Nisa [4]: 135) & *"Hold fast to the Scripture with strength (quwwah)"* (QS. Maryam [19]: 12). · *Governing Traits:* **Tabligh & Uswah**.
+*Qur'anic Anchor:* *"Stand firmly (qawwamin) in justice"* (QS. An-Nisa [4]: 135) & *"Hold fast to the Scripture with strength (quwwah)"* (QS. Maryam [19]: 12). · *Governing Traits:* **Tabligh & Amanah**.
 
 7. **Protocol *Al-Itqan* (`P07` — DoD, *Goldilocks +4%*, *Protected Maker Timeblock* & `>= 80%` *Signal-to-Noise*)**
     - **`v1.3` Mandate:** Pair every Definition of Done with a controlled **Goldilocks `+4%`** baseline stretch, defend a daily **`3–4h` Protected Maker Timeblock** (*Zero-Meeting Deep Work Window*, async-first except `P0` incidents, prohibiting 5-min team micromanagement), and sustain a **`>= 80%` Signal-to-Noise** floor.
-   - **Primary Source:** *"Indeed Allah loves that when one of you performs a deed, he does it with Itqan (precision and excellence)"* (HR. Abu Ya'la & Al-Baihaqi).
+   - **Primary Source:** *"Indeed Allah loves that when one of you performs a deed, he does it with Itqan (precision and excellence)"* (HR. Ath-Thabrani no. 891, Abu Ya'la no. 4386, & Al-Baihaqi no. 5312 + QS. At-Taubah [9]: 105).
    - **Mandatory Rule:** Every deliverable carries an explicit **Definition of Done (DoD)** prior to execution. "Good enough / just tick the box" work is prohibited.
 8. **Protocol *Al-Uswah Al-Hasanah* (`P08` — Frontline Bottleneck Co-location)**
     - **`v1.3` Mandate:** Leaders physically co-locate directly at the active bottleneck front line until unblocked.

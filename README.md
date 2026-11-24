@@ -2,6 +2,7 @@
 
 [![License: CC BY-SA 4.0 / MIT](https://img.shields.io/badge/License-CC--BY--SA--4.0%20%2F%20MIT-1A365D.svg)](./LICENSE)
 [![Standard Version](https://img.shields.io/badge/Standard-v1.3.0-2B6CB0.svg)](./CITATION.cff)
+[![Validate WAQF-v1.3](https://github.com/ridloabelian/waqf-framework/actions/workflows/validate-waqf.yml/badge.svg)](https://github.com/ridloabelian/waqf-framework/actions/workflows/validate-waqf.yml)
 [![Prophetic Pillar](https://img.shields.io/badge/Pillar-P1%20Self%20%26%20Org%20Leadership-C19F65.svg)](https://ridlo.id/waqf-framework)
 [![Second Brain](https://img.shields.io/badge/Knowledge%20Graph-ZK--035-298D6B.svg)](https://ridlo.id/notes/waqf-prophetic-management-cycle-wijhah-azam-qiyam-fahs)
 
@@ -55,7 +56,7 @@ Repositori **`waqf-framework`** ini:
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **W — Wijhah** *(وِجْهَة · Arah & Kiblat Visi)* | *Niyyah, Ru'yah & Al-Miqdar* | *Objectives / Goal Setting* | **Shiddiq** & **Fathanah** | **QS. Al-Baqarah [2]: 148** (*Wa likulli wijhatun...*) + HR. Bukhari-Muslim *(Niyyah)* | Memurnikan niat ibadah (*Ikhlas*), memancangkan visi menang (*Al-Bisyarah*), dan menetapkan 1–3 target terukur (*Al-Miqdar*) tanpa *hidden agenda*. |
 | **A — 'Azam** *(عَزْم · Keputusan Rencana Bulat)* | *Syura, Tadbir & Tafwidh* | *Plan / Organizing* | **Fathanah** & **Amanah** | **QS. Ali 'Imran [3]: 159** (*Wa syawirhum fil amr, fa idza 'azamta...*) + Sirah Badar | Menyusun taktik lewat musyawarah (*Syura*) hingga bulat menjadi *'Azam*, memisahkan prinsip *Tauqifi* dari taktik *Ijtihadi*, dan mendelegasikan ke *Al-Qawiyy Al-Amin*. |
-| **Q — Qiyam** *(قِيَام · Tegak Eksekusi Berdaya)* | *Itqan, Uswah & I'anah* | *Do / Actuating / Key Results* | **Tabligh** & **Uswah** | **QS. An-Nisa [4]: 135** (*Qawwamin*), **QS. Saba' [34]: 46**, **QS. Maryam [19]: 12** (*Khudzil kitaba biquwwah*) | Menjalankan amanah dengan standar presisi tinggi (*Itqan*), pemimpin hadir di garis depan (*Uswah*), wajib membantu & mengurai hambatan tim (*Fa-a'inuhum*), serta menunaikan hak tepat waktu. |
+| **Q — Qiyam** *(قِيَام · Tegak Eksekusi Berdaya)* | *Itqan, Uswah & I'anah* | *Do / Actuating / Key Results* | **Tabligh** & **Amanah** | **QS. An-Nisa [4]: 135** (*Qawwamin*), **QS. Saba' [34]: 46**, **QS. Maryam [19]: 12** (*Khudzil kitaba biquwwah*) | Menjalankan amanah dengan standar presisi tinggi (*Itqan*), pemimpin hadir di garis depan (*Uswah*), wajib membantu & mengurai hambatan tim (*Fa-a'inuhum*), serta menunaikan hak tepat waktu. |
 | **F — Fahs** *(فَحْص · Inspeksi Bukti & Furqan)* | *Hisbah, At-Tahqiq & Muhasabah* | *Check–Act / Controlling / Cadence* | **Shiddiq** & **Amanah** | **QS. Al-Anfal [8]: 29** (*Furqan*) + *At-Tahqiq* Badar + Audit *Ibnul Lutbiyyah* | Inspeksi proses langsung di tengah jalan (*Hisbah*), verifikasi bukti fisik (*Fahs / At-Tahqiq*), audit hasil + anti-gratifikasi (*Muhasabah*), dan perbaikan sistemik (*Islah*) tanpa impunitas elit. |
 
 ---
@@ -83,48 +84,91 @@ Repositori **`waqf-framework`** ini:
 
 ---
 
+## Disambiguasi 4 Lapis Ekosistem & Bukti Empiris Produksi (`SROI 1 : 4,11`)
+
+### 1. Peta Disambiguasi 4 Lapis Ekosistem Wakaf & Kepemimpinan
+
+| Nama Kerangka / Sistem | Penggagas / Institusi | Hakikat & Ruang Lingkup | Mekanisme Kontrol Utama |
+| :--- | :--- | :--- | :--- |
+| **WAQF Framework (`Standard WAQF-v1.3`)** | Ridlo Abelian (`@ridloabelian`) | Siklus manajemen profetik 2D & *Agent Skills Framework* lintas sektor (pengganti PDCA/POAC/OKR) | Matriks `WAQF × SAFT`, Kanvas 1 Halaman `v1.3`, 2 Gerbang Kontrol (`Gate 1` & `Gate 2`), 13 Protokol (`P01–P13`) |
+| **WAQF Agentic Workflow (`waqf-agentic-workflow`)** | ProduktifLabs & Forum Wakaf Produktif (FWP) | Klaster AI terdistribusi **6-Node** (`38 Cores / 80 GB RAM / ~3,5 TB NVMe`) & ERP **Odoo 20** untuk Nazhir | Tailscale WireGuard Mesh VPN, Odoo 20 `PSAK 412`, & pemetaan 10 skema kompetensi **LSP BWI (`SS.001–SS.010`)** |
+| **WAQF-DAO & Waqf Odoo Suite** | Ridlo Abelian / Asosiasi Nazhir Indonesia (ANI) & FWP | Brankas wakaf *on-chain* (Ethereum L2) & suite akuntansi lembaga Islam institusional | Kepatuhan `AAOIFI SS 60` & `PSAK 412/112`, *Dual-Chamber Digital Hisbah*, Odoo Merkle Oracle, AIW/BAST |
+| **Kerangka Wakaf Makro (*Green Waqf*, *5P*, *IPWF*)** | UNDP–BWI–WaCIDS, BWI & Akademisi | Kebijakan makroekonomi, pembiayaan transisi hijau SDGs, dan regulasi ekosistem wakaf nasional | Harmonisasi regulasi & pengawasan regulator perwakafan nasional |
+
+### 2. Bukti Empiris Produksi: Audit Forensik *At-Tahqiq* & SROI Air Bersih (`1 : 4,11`)
+
+Diterapkan nyata pada portofolio **50 intervensi air bersih pedesaan (41 klaster komunitas)** Yayasan Amal Produktif Indonesia (BWI `STBPN 3.3.00386`, cut-off 4 November 2026, ditopang laporan keuangan teraudit KAP WTP 2022–2025):
+
+- **Keterlacakan Kas General Ledger `80,9%` (`P11 · At-Tahqiq`):** 38 dari 47 titik aktif divisi KARYA terkunci langsung ke mutasi kas Buku Besar KAP WTP / LPJ sah (dengan pengungkapan transparan bug *Excel COUNTIF truncation*, pelabelan ulang RO Ciwidey, dan kalibrasi Reverse RAB pada 9 titik awal tanpa fabrikasi kas).
+- **Deduplikasi Forensik `-32,7%`:** Klaim operasional mentah `39.144` jiwa dipangkas menjadi **`26.357` jiwa unik (~6.589 KK)** melalui tiga tahap (`-674` titik batal, `-4.248` hitung ganda 7 pasangan Sumur+MCK, `-7.865` ekstrapolasi populasi satu desa penuh dikoreksi ke kapasitas keran riil + `750` titik SIGAP).
+- **Pemisahan Mutlak 3 Akad & Kepatuhan Regulasi (`P04 & P12`):** Pembukuan `PSAK 412` & `ISAK 335` memisahkan ketat `Akad 01 — WPAIR` (pokok abadi saham wakaf `Rp 41.510.003` + alat geolistrik `Rp 42 juta` untuk *sinking fund* pompa/membran thn ke-3 s.d. ke-5), `Akad 02 — Wakaf Sarana` (konstruksi ber-BAST), dan `Akad 03 — Infak Terikat` (survei & logistik), dengan penyaluran `≥90%` surplus ke *Mauquf 'Alaih* (hak Nazhir `≤10%` sesuai **UU No. 41/2004 Pasal 12**).
+- **SROI Terdiskonto 5 Tahun `1 : 4,11` & *Islah* 2027 (`P13`):** Pada tingkat diskonto `7,0%` dan pemotongan konservatif `8%–20%`, PV Input `Rp 2,758 M` melahirkan PV Manfaat `Rp 11,331 M` (Pipanisasi Gravitasi **`5,77x`** OPEX listrik Rp 0 vs. Filter RO `2,67x`) yang menggerakkan *Islah* 2027: prioritas pipanisasi gravitasi, kontrak *turnkey* wajib uji geolistrik, dan Komite Air Warga.
+
+> Lihat implementasi kanvas lengkapnya di studi kasus tervalidasi:
+> - **[Kanvas Studi Kasus 01 — Audit Forensik SROI Air Bersih `1 : 4,11` (Nazhir / BWI / ANI)](./examples/01-nazhir-clean-water-sroi.md)** ([JSON](./examples/01-nazhir-clean-water-sroi.json))
+> - **[Kanvas Studi Kasus 02 — 14-Day Single-Fire Commercial Surge `SURGE-2026-W48` (Korporasi Syariah & Tim AI)](./examples/02-b2b-single-fire-surge.md)** ([JSON](./examples/02-b2b-single-fire-surge.json))
+
+---
+
 ## Struktur Repositori & Cara Pakai Cepat (*Quick Start*)
 
 ```text
 waqf-framework/
-├── README.md                                     # Ringkasan WAQF × SAFT, komparasi PDCA/POAC/OKR, & panduan pakai
-├── LICENSE                                       # Dual-License: CC-BY-SA-4.0 (Metodologi) & MIT (Schema/Skill/Templates)
-├── CITATION.cff                                  # Metadata sitasi akademik & prior-art timestamp
+├── AGENTS.md                                     # Kontrak instruksi agen AI & matriks zero-drift repositori
+├── README.md                                     # Ringkasan WAQF × SAFT, disambiguasi ekosistem, bukti SROI, & quick start
+├── LICENSE                                       # Dual-License: CC-BY-SA-4.0 (Metodologi/MD) & MIT (Schema/CLI/JSON/Skill)
+├── CITATION.cff                                  # Metadata sitasi akademik & prior-art timestamp (v1.3.0)
+├── package.json                                  # Metadata paket & script CLI zero-dependency (0 node_modules)
 ├── docs/
 │   ├── SOP_Siklus_Manajemen_Profetik_WAQF.md     # SOP operasional lengkap Bahasa Indonesia (SOP-MGT-WAQF-001)
 │   └── WAQF_WHITEPAPER_EN.md                     # Full English Whitepaper & Architecture Specification
+├── examples/
+│   ├── README.md                                 # Panduan 2 studi kasus empiris & perintah validasi CLI
+│   ├── 01-nazhir-clean-water-sroi.{json,md}      # Studi Kasus Nazhir: Audit Forensik SROI Air Bersih 1 : 4,11
+│   └── 02-b2b-single-fire-surge.{json,md}        # Studi Kasus Korporasi/AI: 14-Day Single-Fire Surge SURGE-2026-W48
+├── scripts/
+│   └── waqf-cli.mjs                              # Validator JSON Schema, renderer 1-Page MD, init & zero-drift checker
 ├── templates/
 │   ├── 1-page-waqf-canvas.id.md                  # Kanvas Kerja 1 Halaman siap isi (Bahasa Indonesia)
 │   ├── 1-page-waqf-canvas.en.md                  # 1-Page WAQF Execution Canvas (English)
 │   ├── obsidian-waqf-projectnote.md              # Template proyek Obsidian + YAML frontmatter & tabel delegasi
 │   └── cadence-agendas.md                        # Agenda rapat Harian, Mingguan, Bulanan & Kuartalan
 ├── schema/
-│   └── waqf-canvas.schema.json                   # JSON Schema (Draft 2020-12) untuk integrasi AI & validasi terstruktur
+│   └── waqf-canvas.schema.json                   # JSON Schema (Draft 2020-12, waqf-framework/1.3.0)
 ├── skills/
 │   └── waqf-prophetic-management/
 │       └── SKILL.md                              # AI Agent Skill resmi untuk Claude Code, Cursor, & Antigravity
 └── .github/
+    ├── workflows/
+    │   └── validate-waqf.yml                     # CI otomatis validasi skema, contoh, & zero-drift ridlo.id
     ├── ISSUE_TEMPLATE/
     │   ├── waqf-initiative.yml                   # GitHub Issue Form memulai proyek/siklus berbasis WAQF (P01–P09)
     │   └── hisbah-muhasabah-review.yml           # GitHub Issue Form audit tengah/akhir siklus berbasis Fahs (P10–P13)
     └── pull_request_template.md                  # PR checklist berbasis Qiyam/Itqan, Tauqifi, & At-Tahqiq
 ```
 
-### 1. Untuk Pemimpin & Tim Operasional (1 Menit Mulai)
-1. Salin [`templates/1-page-waqf-canvas.id.md`](./templates/1-page-waqf-canvas.id.md) (atau versi English [`1-page-waqf-canvas.en.md`](./templates/1-page-waqf-canvas.en.md)) setiap memulai proyek, kampanye, atau siklus kuartalan baru — atau isi langsung di **Interactive Canvas Builder**: https://ridlo.id/waqf-framework.
-2. Jalankan 4 ritme evaluasi di [`templates/cadence-agendas.md`](./templates/cadence-agendas.md) (*Briefing Harian Wijhah & Qiyam*, *Majelis Mingguan Fahs/Hisbah & I'anah*, *Audit Bulanan Muhasabah & Tadbir*, *Syura Kuartalan Wijhah & Islah*).
-3. Pelajari SOP lengkapnya di [`docs/SOP_Siklus_Manajemen_Profetik_WAQF.md`](./docs/SOP_Siklus_Manajemen_Profetik_WAQF.md) atau salinan eksekutifnya di [Google Docs](https://docs.google.com/document/d/1bOnSkdDblDdS8x-e90aBU_-sMn6DXNYrER0Rs4JRn5w/edit?usp=drivesdk).
+### 1. Pilot Institusional 15 Menit untuk Pimpinan Nazhir / BWI / ANI (Tanpa Ganti ERP)
+1. Pelajari wujud kanvas terisi pada [`examples/01-nazhir-clean-water-sroi.md`](./examples/01-nazhir-clean-water-sroi.md) untuk melihat pemetaan pemisahan akad `PSAK 412 / ISAK 335`, *Idiot Index RAB*, dan *At-Tahqiq* dalam satu halaman.
+2. Salin [`templates/1-page-waqf-canvas.id.md`](./templates/1-page-waqf-canvas.id.md) (atau isi di **Interactive Canvas Builder**: https://ridlo.id/waqf-framework) dan terapkan **Gerbang 1 (`P01–P09`)** sebelum pencairan dana program baru.
+3. Jalankan 4 ritme evaluasi di [`templates/cadence-agendas.md`](./templates/cadence-agendas.md) (termasuk *Majelis Mingguan 15–30 Menit* + kewajiban *walk-out* bermartabat) dan pelajari SOP lengkap di [`docs/SOP_Siklus_Manajemen_Profetik_WAQF.md`](./docs/SOP_Siklus_Manajemen_Profetik_WAQF.md) atau [Google Docs](https://docs.google.com/document/d/1bOnSkdDblDdS8x-e90aBU_-sMn6DXNYrER0Rs4JRn5w/edit?usp=drivesdk).
 
-### 2. Untuk Repositori GitHub Tim Software / Produk
-Salin folder `.github/` dari repositori ini ke repositori tim Anda agar:
-- Setiap *Initiative* baru wajib melewati gerbang **Wijhah**, **Pagar Tauqifi**, **Al-Miqdar**, dan **DRI Al-Qawiyy Al-Amin**.
-- Setiap *Pull Request* mewajibkan *Definition of Done* (**Qiyam · Itqan**) dan bukti fisik/log terverifikasi (**Fahs · At-Tahqiq**).
-- Setiap akhir sprint melewati **Audit Fahs / Muhasabah & Hisbah**.
+### 2. Untuk Developer, Tim Produk & Ekosistem AI Agent (CLI Zero-Dependency)
+Gunakan CLI bawaan tanpa instalasi `node_modules` (`Node.js >= 20`):
+```bash
+# Validasi JSON Canvas terhadap schema/waqf-canvas.schema.json + cek kesiapan Gate 1 & Gate 2
+node scripts/waqf-cli.mjs validate examples/
 
-### 3. Untuk AI Agent & Second Brain (Claude Code / Cursor / Antigravity / Obsidian)
-- **Obsidian:** Pakai [`templates/obsidian-waqf-projectnote.md`](./templates/obsidian-waqf-projectnote.md) sebagai template catatan proyek.
-- **Agent Skill:** Salin folder [`skills/waqf-prophetic-management/`](./skills/waqf-prophetic-management/SKILL.md) ke `.agents/skills/` atau `~/.claude/skills/` proyek Anda agar AI Agent otomatis menyusun *WAQF Canvas*, mengaudit OKR/PRD terhadap 13 protokol hadis, dan memandu sesi *Hisbah & Muhasabah*.
-- **Structured Output / RAG:** Pakai [`schema/waqf-canvas.schema.json`](./schema/waqf-canvas.schema.json) sebagai kontrak JSON LLM.
+# Buat kerangka JSON Canvas v1.3.0 baru yang langsung valid
+node scripts/waqf-cli.mjs init PRJ-NAZHIR-2027-01 --out canvas.json
+
+# Render JSON tervalidasi menjadi Kanvas Kerja 1 Halaman (ID atau EN)
+node scripts/waqf-cli.mjs render canvas.json --lang id --out canvas.md
+
+# Jalankan seluruh test validasi, boundary check, & cek zero-drift dengan ridlo.id/waqf-framework.md
+node scripts/waqf-cli.mjs test && node scripts/waqf-cli.mjs check-drift --remote
+```
+- **GitHub Governance:** Salin folder `.github/` (termasuk workflow CI `validate-waqf.yml`, Issue Forms, dan PR checklist) ke repositori tim Anda.
+- **Agent & Second Brain:** Salin [`AGENTS.md`](./AGENTS.md) dan [`skills/waqf-prophetic-management/`](./skills/waqf-prophetic-management/SKILL.md) ke `.agents/skills/` atau `~/.claude/skills/`, serta [`templates/obsidian-waqf-projectnote.md`](./templates/obsidian-waqf-projectnote.md) ke vault Obsidian Anda.
 
 ---
 
@@ -132,8 +176,13 @@ Salin folder `.github/` dari repositori ini ke repositori tim Anda agar:
 
 - **Interactive Hub & Canvas Builder (`ridlo.id`):** https://ridlo.id/waqf-framework (Raw Markdown: https://ridlo.id/waqf-framework.md)
 - **Blueprint & Directory:** https://ridlo.id/projects/waqf-framework
-- **Esai Lengkap (#14):** [Beyond PDCA, POAC & OKR: The WAQF Prophetic Management Cycle](https://ridlo.id/posts/waqf-prophetic-management-cycle-beyond-pdca-poac-okr)
-- **Atomic Note (`ZK-035`):** [WAQF Prophetic Management Cycle: Wijhah, 'Azam, Qiyam & Fahs](https://ridlo.id/notes/waqf-prophetic-management-cycle-wijhah-azam-qiyam-fahs)
+- **Esai Audit Forensik & SROI Air Bersih (`1 : 4,11`):** [Audit Forensik At-Tahqiq & SROI Air Bersih Wakaf](https://ridlo.id/posts/audit-forensik-at-tahqiq-sroi-air-bersih-wakaf)
+- **Esai Teori & Arsitektur Lengkap:** [Beyond PDCA, POAC & OKR: The WAQF Prophetic Management Cycle](https://ridlo.id/posts/waqf-prophetic-management-cycle-beyond-pdca-poac-okr)
+- **Atomic Notes (`Second Brain`):**
+  - `ZK-035`: [WAQF Prophetic Management Cycle: Wijhah, 'Azam, Qiyam & Fahs](https://ridlo.id/notes/waqf-prophetic-management-cycle-wijhah-azam-qiyam-fahs)
+  - `ZK-041`: [Semantic Tree, Expert Interrogation & Negative Feedback Loop](https://ridlo.id/notes/semantic-tree-expert-interrogation-negative-feedback-loop)
+  - `ZK-042`: [Single-Fire Surge, Rasio Signal-to-Noise 80/20 & Goldilocks Flow](https://ridlo.id/notes/single-fire-surge-signal-to-noise-goldilocks-flow)
+- **Protokol Surge Aktif (`/now.md`):** https://ridlo.id/now.md
 - **Dokumen SOP Eksekutif (Google Docs):** [SOP & Kanvas Kerja Siklus Manajemen Profetik WAQF](https://docs.google.com/document/d/1bOnSkdDblDdS8x-e90aBU_-sMn6DXNYrER0Rs4JRn5w/edit?usp=drivesdk)
 - **LLM Corpus:** https://ridlo.id/llms.txt
 
@@ -141,5 +190,5 @@ Salin folder `.github/` dari repositori ini ke repositori tim Anda agar:
 
 ## Lisensi & Atribusi
 
-- **Metodologi, SOP, Whitepaper, & Kanvas Kerja (`docs/`, `templates/`, `README.md`):** Dilisensikan di bawah **Creative Commons Attribution-ShareAlike 4.0 International (`CC-BY-SA-4.0`)**. Bebas dipakai, diterjemahkan, dan diajarkan untuk kebaikan lembaga serta umat dengan atribusi kepada **Ridlo Abelian** dan tautan ke `https://github.com/ridloabelian/waqf-framework`.
-- **Kode, JSON Schema, GitHub Templates, & AI Agent Skill (`schema/`, `skills/`, `.github/`):** Dilisensikan di bawah **MIT License**. Lihat rinciannya di [`LICENSE`](./LICENSE).
+- **Metodologi, SOP, Whitepaper, Kanvas Markdown, & Studi Kasus `.md` (`docs/`, `templates/`, `examples/*.md`, `README.md`):** Dilisensikan di bawah **Creative Commons Attribution-ShareAlike 4.0 International (`CC-BY-SA-4.0`)**. Bebas dipakai, diterjemahkan, dan diajarkan untuk kebaikan lembaga serta umat dengan atribusi kepada **Ridlo Abelian** dan tautan ke `https://github.com/ridloabelian/waqf-framework`.
+- **Kode, CLI, JSON Schema, Contoh JSON, GitHub Templates, & AI Agent Skill (`AGENTS.md`, `package.json`, `schema/`, `scripts/`, `examples/*.json`, `skills/`, `.github/`):** Dilisensikan di bawah **MIT License**. Lihat rinciannya di [`LICENSE`](./LICENSE).

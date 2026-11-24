@@ -14,7 +14,7 @@ saft_focus:
 cycle_start: "{{DATE_START}}"
 cycle_end: "{{DATE_END}}"
 hisbah_date: "{{HISBAH_DATE}}"
-status: draft # draft | azam-ratified | qiyam-execution | hisbah | closed-islah
+status: draft # draft | azam-ratified | qiyam-execution | mid-cycle-hisbah | closed-islah
 integrity_audit: pending # pending | clean | finding
 tags:
   - waqf-framework

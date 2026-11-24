@@ -1,0 +1,132 @@
+{
+  "schema_version": "waqf-framework/1.3.0",
+  "metadata": {
+    "project_code": "AP-KARYA-WPAIR-2026",
+    "title": "Audit Forensik At-Tahqiq & SROI Air Bersih Wakaf (1 : 4,11)",
+    "entity": "Yayasan Amal Produktif Indonesia (BWI STBPN 3.3.00386) · Produktif Institute",
+    "primary_dri": "Ridlo Abelian & Tim Audit Forensik KARYA-PSAK 412",
+    "saft_pillars": ["Shiddiq", "Amanah", "Fathanah", "Tabligh"],
+    "cycle_start": "2026-01-01",
+    "hisbah_date": "2026-07-15",
+    "cycle_end": "2026-11-04",
+    "status": "closed-islah",
+    "gates": {
+      "pre_flight_p01_p09_passed": true,
+      "mid_post_flight_p10_p13_passed": true
+    }
+  },
+  "w_wijhah": {
+    "al_niyyah_vertical": "Menunaikan amanah wakaf air bersih (afdhahus shadaqah saqyul ma') di bawah pengawasan Allah SWT dengan kejujuran mutlak bebas vanity metrics dan menjaga pokok amanah (tahbisul ashli wa tasbilul manfa'ah).",
+    "maslahah_horizontal": "Menghadirkan air bersih berkelanjutan bagi 26.357 jiwa unik (~6.589 KK) di 41 klaster komunitas dari 50 titik intervensi pedesaan dengan biaya efektif Rp 104.640 per jiwa selama 5 tahun dan hak Nazhir <= 10% (UU 41/2004 Pasal 12).",
+    "al_bisyarah_vision": "Menjadikan portofolio air bersih Amal Produktif sebagai tolok ukur nasional tata kelola Nazhir berbasis Buku Besar PSAK 412, ISAK 335, dan audit SROI forensik siap uji KAP WTP.",
+    "idiot_index_and_single_fire": "Audit Idiot Index RAB & OPEX membuktikan Tipe A Pipanisasi Gravitasi (SROI 5,77x, OPEX listrik Rp 0/bln) jauh lebih efisien daripada Tipe C Filter RO (SROI 2,67x, beban membran/listrik ~Rp 5,0 juta/thn). Single-Fire Surge >=80% fokus diarahkan ke rekonsiliasi Buku Besar & deduplikasi populasi pra-alokasi modal 2027.",
+    "al_miqdar_targets": [
+      {
+        "metric": "Keterlacakan Kas General Ledger KAP WTP (Divisi KARYA)",
+        "target_value": "80,9% (38 dari 47 titik aktif terkunci mutasi kas/LPJ)",
+        "deadline": "2026-11-04",
+        "risk_or_budget_ceiling": "Nol fabrikasi mutasi kas atas 9 titik awal (kalibrasi Reverse RAB regional transparan)"
+      },
+      {
+        "metric": "Rasio SROI Terdiskonto 5 Tahun (Diskonto 7,0% + Konservatif 8%-20%)",
+        "target_value": "1 : 4,11 (PV Input Rp 2.758.007.211 -> PV Manfaat Rp 11.330.800.704; payback ~11,8 bln)",
+        "deadline": "2026-11-04",
+        "risk_or_budget_ceiling": "Pemotongan konservatif Deadweight, Attribution, Displacement & Drop-off 8%-20%"
+      },
+      {
+        "metric": "Keutuhan Pokok Abadi Akad 01 WPAIR & Aset Produktif Geolistrik",
+        "target_value": "100% Utuh: Pokok Abadi Rp 41.510.003 + Alat Geolistrik Rp 42.000.000",
+        "deadline": "2026-11-04",
+        "risk_or_budget_ceiling": "Nol co-mingling rekening antar-akad; hak Nazhir <= 10% UU 41/2004 Ps. 12"
+      }
+    ]
+  },
+  "a_azam": {
+    "tauqifi_guardrails": [
+      "Pemisahan mutlak 3 akad anti-co-mingling: Akad 01 WPAIR (pokok abadi Rp 50.000/lembar -> sinking fund pompa/membran thn 3-5), Akad 02 Wakaf Sarana (konstruksi ber-BAST), Akad 03 Infak Terikat ISAK 335 (survei geolistrik & asesmen PPKS).",
+      "Kepatuhan mutlak UU No. 41/2004 Pasal 12 (hak Nazhir <= 10%, minimal 90% surplus manfaat ke Mauquf 'Alaih), PSAK 412, ISAK 335, dan pemisahan entitas legal Nazhir vs PT PIB / SAIF."
+    ],
+    "ijtihadi_tactics": [
+      "Migrasi pencatatan proyek dan BAST dari spreadsheet manual ke klaster 6-Node WAQF Agentic Workflow & Odoo 20 ERP PSAK 412.",
+      "Prioritaskan kontrak turnkey berbasis uji akuifer geolistrik sebelum pencairan dana konstruksi sumur bor baru."
+    ],
+    "decision_data_threshold_pct": 70,
+    "deleted_bureaucracy_steps": [
+      "Menghapus rekap spreadsheet manual bertingkat yang memicu bug Excel COUNTIF truncation dan pelabelan ulang RO Ciwidey sebelum mengintegrasikan Buku Besar Odoo 20 PSAK 412."
+    ],
+    "kill_trigger": "Bekukan seluruh pencairan konstruksi titik sumur bor baru jika uji akuifer geolistrik belum tervalidasi atau Komite Air Warga lokal belum terbentuk.",
+    "tafwidh_delegation": [
+      {
+        "member_name": "Ridlo Abelian",
+        "role": "Primary Architect & Auditor Syura WAQF × PSAK 412",
+        "al_quwwah_verified": true,
+        "al_amanah_verified": true
+      },
+      {
+        "member_name": "Tim Audit Produktif Institute & KARYA",
+        "role": "DRI Rekonsiliasi GL KAP WTP, BAST GPS & Valuasi SROI",
+        "al_quwwah_verified": true,
+        "al_amanah_verified": true
+      }
+    ],
+    "azam_ratified": true,
+    "azam_ratified_date": "2026-01-05"
+  },
+  "q_qiyam": {
+    "definition_of_done": [
+      "Seluruh 50 baris intervensi KARYA direkonsiliasi ke mutasi kas Buku Besar KAP WTP 2022-2025 atau Reverse RAB transparan.",
+      "Setiap angka penerima manfaat dide-duplikasi secara forensik berbasis kapasitas keran komunal & BAST berkoordinat GPS (588 titik nasional)."
+    ],
+    "signal_floor_pct": 80,
+    "goldilocks_stretch": "+4% di atas standar audit filantropi konvensional dengan memotong klaim mentah -32,7% sembari tetap membuktikan SROI > 4x.",
+    "protected_maker_timeblock": "08:00-12:00 WIB Zero-Meeting Deep Work Window (komunikasi asinkron kecuali insiden P0; nol micromanagement 5 menit pada tim audit).",
+    "uswah_touchpoints": [
+      "Verifikasi fisik langsung oleh pimpinan atas dokumen kas KAP WTP, alat geolistrik Rp 42 juta, dan sampel keran komunal penerima manfaat."
+    ],
+    "fa_ainuhum_support": {
+      "provisioned_resources": [
+        "Klaster 6-Node WAQF Agentic Workflow (Odoo 20 PSAK 412, PostgreSQL failover <60 dtk, Node F Telemetry DPS)",
+        "Aset produktif alat geolistrik Rp 42.000.000 & dukungan survei lapangan dari Akad 03 Infak Terikat ISAK 335"
+      ],
+      "manager_unblocking_plan": "Eskalasi skip-level langsung ke Pembina/DPS via Node F Telemetry apabila terjadi anomali akad atau keterlambatan BAST, di bawah pagar La Yuqallad (tidur >=6 jam, nol overwork 120 jam).",
+      "zero_humiliation_pledge": true,
+      "timely_compensation_commitment": "H+0 pelunasan vendor, tim survei, dan hak mitra segera setelah BAST/invoice sah diverifikasi"
+    }
+  },
+  "f_fahs": {
+    "mid_cycle_hisbah_findings": "Audit tengah siklus menemukan inkonsistensi legacy Excel COUNTIF truncation, 3 lokasi batal (Karawang, Cianjur, Cikarang), 7 pasang proyek Sumur+MCK yang terhitung ganda, dan ekstrapolasi populasi satu desa penuh.",
+    "external_negative_feedback": [
+      "Keluhan komite warga atas biaya tagihan listrik bulanan pada titik sumur bor dalam & mahalnya penggantian membran Reverse Osmosis pada tahun ke-3 hingga ke-5.",
+      "Temuan kegagalan debit/batal pada 3 titik periode 2022-2024 karena pengeboran dilakukan tanpa validasi geolistrik akuifer di muka."
+    ],
+    "at_tahqiq_artifacts": [
+      {
+        "kpi_name": "Keterlacakan Buku Besar KAP WTP (80,9%)",
+        "artifact_uri_or_ref": "Laporan Keuangan Teraudit KAP WTP 2022-2025 & Ledger Odoo 20 PSAK 412 (38/47 titik aktif KARYA)",
+        "verified": true
+      },
+      {
+        "kpi_name": "Deduplikasi Forensik -32,7% (39.144 -> 26.357 Jiwa Unik)",
+        "artifact_uri_or_ref": "Matriks 3 Tahap (-674 batal, -4.248 hitung ganda 7 Sumur+MCK, -7.865 koreksi keran riil + 750 SIGAP) & BAST GPS",
+        "verified": true
+      },
+      {
+        "kpi_name": "Valuasi SROI 5 Tahun 1 : 4,11 & Laporan Publik",
+        "artifact_uri_or_ref": "https://ridlo.id/posts/audit-forensik-at-tahqiq-sroi-air-bersih-wakaf",
+        "verified": true
+      }
+    ],
+    "ibnul_lutbiyyah_audit": {
+      "outcome_summary": "Target At-Tahqiq tuntas (SROI 1 : 4,11; PV Manfaat Rp 11,33 M; Pokok Abadi WPAIR Rp 41.510.003 utuh 100%) dengan pemisahan ketat 3 akad PSAK 412/ISAK 335 dan nol gratifikasi.",
+      "integrity_status": "clean",
+      "asset_segregation_verified": true,
+      "zero_unauthorized_gifts_declared": true
+    },
+    "pre_expansion_semantic_tree_verified": true,
+    "islah_actions": [
+      "Islah 2027 #1: Prioritaskan Pipanisasi Gravitasi Pegunungan (SROI 5,77x, OPEX listrik Rp 0/bulan) untuk alokasi modal baru.",
+      "Islah 2027 #2: Wajibkan kontrak turnkey berbasis survei geolistrik akuifer di Gerbang Pre-Flight sebelum pencairan dana.",
+      "Islah 2027 #3: Wajibkan pembentukan Komite Air Warga dan pencadangan otomatis sinking fund WPAIR di Odoo 20 PSAK 412."
+    ]
+  }
+}

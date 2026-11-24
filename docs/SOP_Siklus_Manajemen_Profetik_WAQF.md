@@ -42,7 +42,7 @@ Dalam arsitektur organisasi, **WAQF Framework** mengawinkan dua kutub:
 | :--- | :--- | :--- | :--- | :--- |
 | **W — WIJHAH** *(وِجْهَة · Arah Kiblat)*<br>*QS. Al-Baqarah [2]: 148* | *Niyyah, Ru'yah & Al-Miqdar* | *Objectives / Goal Setting* | **Shiddiq** & **Fathanah** | Memurnikan niat (*Ikhlas*), memancangkan visi besar (*Al-Bisyarah*), dan menetapkan ukuran target jujur (*Al-Miqdar*) tanpa *hidden agenda*. |
 | **A — 'AZAM** *(عَزْم · Keputusan Bulat)*<br>*QS. Ali 'Imran [3]: 159* | *Syura, Tadbir & Tafwidh* | *Plan / Organizing* | **Fathanah** & **Amanah** | Menyusun peta taktis lewat musyawarah (*Syura*) hingga bulat menjadi *'Azam*, memisahkan prinsip *Tauqifi* dari taktik adaptif *Ijtihadi*, dan mendelegasikan tugas kepada *Al-Qawiyy Al-Amin*. |
-| **Q — QIYAM** *(قِيَام · Eksekusi Tegak)*<br>*QS. An-Nisa [4]: 135 · Saba' [34]: 46 · Maryam [19]: 12* | *Itqan, Uswah & I'anah* | *Do / Actuating / Key Results* | **Tabligh** & **Uswah** | Menjalankan tugas dengan kekuatan penuh dan presisi (*Itqan*), pemimpin memberi teladan di garis depan (*Uswah*), wajib membantu tim (*Fa-a'inuhum*), dan menunaikan hak tepat waktu. |
+| **Q — QIYAM** *(قِيَام · Eksekusi Tegak)*<br>*QS. An-Nisa [4]: 135 · Saba' [34]: 46 · Maryam [19]: 12* | *Itqan, Uswah & I'anah* | *Do / Actuating / Key Results* | **Tabligh** & **Amanah** | Menjalankan tugas dengan kekuatan penuh dan presisi (*Itqan*), pemimpin memberi teladan di garis depan (*Uswah*), wajib membantu tim (*Fa-a'inuhum*), dan menunaikan hak tepat waktu. |
 | **F — FAHS** *(فَحْص · Inspeksi & Furqan)*<br>*QS. Al-Anfal [8]: 29 · At-Tahqiq* | *Hisbah, At-Tahqiq & Muhasabah* | *Check–Act / Controlling / Cadence* | **Shiddiq** & **Amanah** | Inspeksi proses langsung di lapangan (*Hisbah*), verifikasi bukti fisik (*Fahs / At-Tahqiq*), audit hasil + anti-gratifikasi (*Muhasabah*), dan perbaikan sistemik (*Islah*) tanpa impunitas elit. |
 
 ### 2.2 Komparasi Langsung: PDCA / POAC / OKR Konvensional vs. WAQF Framework Rasulullah ﷺ
@@ -102,11 +102,11 @@ Dalam arsitektur organisasi, **WAQF Framework** mengawinkan dua kutub:
 
 ### Disiplin 3 (Q): QIYAM — *Itqan, Uswah & I'anah (Eksekusi Tegak Presisi, Keteladanan & Coaching)*
 **Dalil Payung:** *«يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ»* (QS. An-Nisa [4]: 135 — *tegak melaksanakan dengan adil*) & *«خُذِ الْكِتَابَ بِقُوَّةٍ»* (QS. Maryam [19]: 12 — *jalankan amanah dengan kesungguhan/daya penuh*).
-**Pilar Pengawal:** *Tabligh* (Komunikasi penggerakan dua arah & keteladanan hidup).
+**Pilar Pengawal:** *Tabligh* (Komunikasi penggerakan dua arah & keteladanan hidup) & *Amanah* (Penjagaan hak dan pagar *La Yuqallad*).
 
 7. **Protokol *Al-Itqan* (`P07` — DoD, *Goldilocks +4%*, *Protected Maker Timeblock* & `>= 80%` *Signal-to-Noise*)**
     - **Pembaruan Wajib `v1.3`:** Setiap *Definition of Done* dipasang target peregangan terkendali *Goldilocks* (`+4%` di atas capaian terakhir), dilindungi **Protected Maker Timeblock** (`3–4 jam/hari` jendela kerja mendalam bebas rapat & panggilan mendadak dengan komunikasi default asinkron kecuali insiden `P0`, serta larangan *micromanagement* slot 5 menit ke tim), guna menjaga lantai `>= 80%` waktu kerja *Signal* bebas kebisingan admin.
-   - **Landasan Hadis:** *«إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ»* — *"Sesungguhnya Allah mencintai apabila salah seorang di antara kalian bekerja, ia melakukannya secara itqan (rapi, presisi, dan tuntas)"* (HR. Abu Ya'la & Al-Baihaqi).
+   - **Landasan Hadis:** *«إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ»* — *"Sesungguhnya Allah mencintai apabila salah seorang di antara kalian bekerja, ia melakukannya secara itqan (rapi, presisi, dan tuntas)"* (HR. Ath-Thabrani no. 891, Abu Ya'la no. 4386, & Al-Baihaqi no. 5312 + QS. At-Taubah [9]: 105).
    - **Aturan Wajib SOP:** Setiap tugas harus memiliki **Definition of Done (DoD)** yang jelas; budaya "asal selesai / asal gugur kewajiban" dilarang keras.
 8. **Protokol *Al-Uswah Al-Hasanah* (`P08` — Ko-lokalisasi Langsung Leader di *Bottleneck*)**
     - **Pembaruan Wajib `v1.3`:** Pimpinan berkantor dan menyatu langsung (*co-location*) di titik *bottleneck* lapangan hingga rantai hambatannya terbuka.

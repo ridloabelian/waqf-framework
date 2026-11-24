@@ -77,6 +77,19 @@
             "mid-cycle-hisbah",
             "closed-islah"
           ]
+        },
+        "gates": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "Two-Gate compliance status (Gate 1: Pre-Flight P01-P09; Gate 2: Mid/Post-Flight P10-P13).",
+          "required": [
+            "pre_flight_p01_p09_passed",
+            "mid_post_flight_p10_p13_passed"
+          ],
+          "properties": {
+            "pre_flight_p01_p09_passed": { "type": "boolean" },
+            "mid_post_flight_p10_p13_passed": { "type": "boolean" }
+          }
         }
       }
     },

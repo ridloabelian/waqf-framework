@@ -17,6 +17,7 @@ Procedures, and management canvases—specifically files in:
   - docs/
   - templates/1-page-waqf-canvas.*.md
   - templates/cadence-agendas.md
+  - examples/*.md
 
 are licensed under the Creative Commons Attribution-ShareAlike 4.0
 International License (CC BY-SA 4.0).
@@ -41,7 +42,11 @@ Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 -------------------------------------------------------------------------------
 All machine-readable schemas, automation templates, GitHub templates, and AI
 Agent Skills—specifically files in:
+  - AGENTS.md
+  - package.json
   - schema/
+  - scripts/
+  - examples/*.json
   - skills/
   - .github/
   - templates/obsidian-waqf-projectnote.md
